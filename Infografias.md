@@ -16,28 +16,28 @@ google.com/imgres?imgurl=https://www.plenainclusion.org/wp-content/uploads/2021/
 
 ### Aspectos positivos:
 
-1 Uso de colores
-2 Recurrir a muñecos con expresiones
-3 Objetos (botella, teléfono) reconocibles 
+1. Uso de colores
+2. Recurrir a muñecos con expresiones
+3. Objetos (botella, teléfono) reconocibles 
 
 ### Aspectos mejorables: 
 
-1 Mucha letra
-2 Sería preferible un fondo oscuro
-3 Letra pequeña 
+1. Mucha letra
+2. Sería preferible un fondo oscuro
+3. Letra pequeña 
 
 ## Infografía 2
 
 https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.paho.org%2Fes%2Ffile%2F61944%2Fdownload%3Ftoken%3D5uaPIUTG&imgrefurl=https%3A%2F%2Fwww.paho.org%2Fes%2Fdocumentos%2Finfografia-covid-19-cubra-su-tos&tbnid=--SoihKmu-P7KM&vet=1&docid=Ye7OcyCoa03leM&w=1275&h=1650&hl=es-ES&source=sh%2Fx%2Fim
 
 ### Aspectos  positivos:
-1  Buena combinación de colores
-2  Destaca las palabras importantes
-3 Queda claro el orden de prioridades, lo importante es utilizar papel. 
+1. Buena combinación de colores
+2. Destaca las palabras importantes
+3. Queda claro el orden de prioridades, lo importante es utilizar papel. 
 
 ### Aspectos mejorables:
-1 Mucha letra
-2  Preferible otro color para la letra (azul,rojo,blanco)
+1. Mucha letra
+2. Preferible otro color para la letra (azul,rojo,blanco)
 
 ## Infografía 3
 
@@ -45,12 +45,12 @@ https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.paho.org%2Fes%2Ffile%2F61
 
 ### Aspectos positivos:
 
-1 Uso adecuado del color
-2 Importancia de los dibujos
+1. Uso adecuado del color
+2. Importancia de los dibujos
 
 ### Aspectos mejorables:
 
-1 Demasiada información
-2 Falta estructura
-3 __Horror vacui__
+1. Demasiada información
+2. Falta estructura
+3. _Horror vacui_
 
