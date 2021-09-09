@@ -14,13 +14,13 @@ google.com/imgres?imgurl=https://www.plenainclusion.org/wp-content/uploads/2021/
 - Contagio 
 - Prevención
 
-### Aspectos **positivos**:
+### Aspectos positivos:
 
 1 Uso de colores
 2 Recurrir a muñecos con expresiones
 3 Objetos (botella, teléfono) reconocibles 
 
-### Aspectos **mejorables**: 
+### Aspectos mejorables: 
 
 1 Mucha letra
 2 Sería preferible un fondo oscuro
@@ -30,12 +30,12 @@ google.com/imgres?imgurl=https://www.plenainclusion.org/wp-content/uploads/2021/
 
 https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.paho.org%2Fes%2Ffile%2F61944%2Fdownload%3Ftoken%3D5uaPIUTG&imgrefurl=https%3A%2F%2Fwww.paho.org%2Fes%2Fdocumentos%2Finfografia-covid-19-cubra-su-tos&tbnid=--SoihKmu-P7KM&vet=1&docid=Ye7OcyCoa03leM&w=1275&h=1650&hl=es-ES&source=sh%2Fx%2Fim
 
-### Aspects  positivos
+### Aspectos  positivos:
 1  Buena combinación de colores
 2  Destaca las palabras importantes
 3 Queda claro el orden de prioridades, lo importante es utilizar papel. 
 
-### Aspectos mejorables
+### Aspectos mejorables:
 1 Mucha letra
 2  Preferible otro color para la letra (azul,rojo,blanco)
 
@@ -52,5 +52,5 @@ https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.paho.org%2Fes%2Ffile%2F61
 
 1 Demasiada información
 2 Falta estructura
-3 Horror vacui 
-3
+3 __Horror vacui__
+
