@@ -4,9 +4,7 @@
 
 He escogido estas infografías porque hablan sobre un tema muy candente. Aunque todos estemos cansados del Coronavirus aún convive con nosotros por eso me parecía interesante buscar cómo se representa. 
 
-## Infografía 1
-
-google.com/imgres?imgurl=https://www.plenainclusion.org/wp-content/uploads/2021/03/coronavirus_infoportada.jpg&imgrefurl=https://www.plenainclusion.org/publicaciones/buscador/infografia-informacion-sobre-el-nuevo-coronavirus-lectura-facil/&tbnid=JyR1rLPihKpkwM&vet=1&docid=om09PitKaIvdkM&w=900&h=1335&hl=es-ES&source=sh/x/im
+## [Infografía 1](google.com/imgres?imgurl=https://www.plenainclusion.org/wp-content/uploads/2021/03/coronavirus_infoportada.jpg&imgrefurl=https://www.plenainclusion.org/publicaciones/buscador/infografia-informacion-sobre-el-nuevo-coronavirus-lectura-facil/&tbnid=JyR1rLPihKpkwM&vet=1&docid=om09PitKaIvdkM&w=900&h=1335&hl=es-ES&source=sh/x/im)
 
 ### Estructura:
 - Definición
@@ -26,9 +24,7 @@ google.com/imgres?imgurl=https://www.plenainclusion.org/wp-content/uploads/2021/
 2. Sería preferible un fondo oscuro
 3. Letra pequeña 
 
-## Infografía 2
-
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.paho.org%2Fes%2Ffile%2F61944%2Fdownload%3Ftoken%3D5uaPIUTG&imgrefurl=https%3A%2F%2Fwww.paho.org%2Fes%2Fdocumentos%2Finfografia-covid-19-cubra-su-tos&tbnid=--SoihKmu-P7KM&vet=1&docid=Ye7OcyCoa03leM&w=1275&h=1650&hl=es-ES&source=sh%2Fx%2Fim
+## [Infografía 2](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.paho.org%2Fes%2Ffile%2F61944%2Fdownload%3Ftoken%3D5uaPIUTG&imgrefurl=https%3A%2F%2Fwww.paho.org%2Fes%2Fdocumentos%2Finfografia-covid-19-cubra-su-tos&tbnid=--SoihKmu-P7KM&vet=1&docid=Ye7OcyCoa03leM&w=1275&h=1650&hl=es-ES&source=sh%2Fx%2Fim)
 
 ### Aspectos  positivos:
 1. Buena combinación de colores
@@ -39,9 +35,7 @@ https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.paho.org%2Fes%2Ffile%2F61
 1. Mucha letra
 2. Preferible otro color para la letra (azul,rojo,blanco)
 
-## Infografía 3
-
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.paho.org%2Fes%2Ffile%2F61944%2Fdownload%3Ftoken%3D5uaPIUTG&imgrefurl=https%3A%2F%2Fwww.paho.org%2Fes%2Fdocumentos%2Finfografia-covid-19-cubra-su-tos&tbnid=--SoihKmu-P7KM&vet=1&docid=Ye7OcyCoa03leM&w=1275&h=1650&hl=es-ES&source=sh%2Fx%2Fim#imgrc=--SoihKmu-P7KM&imgdii=XBMXDLZaA5D_1M
+## [Infografía 3](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.paho.org%2Fes%2Ffile%2F61944%2Fdownload%3Ftoken%3D5uaPIUTG&imgrefurl=https%3A%2F%2Fwww.paho.org%2Fes%2Fdocumentos%2Finfografia-covid-19-cubra-su-tos&tbnid=--SoihKmu-P7KM&vet=1&docid=Ye7OcyCoa03leM&w=1275&h=1650&hl=es-ES&source=sh%2Fx%2Fim#imgrc=--SoihKmu-P7KM&imgdii=XBMXDLZaA5D_1M)
 
 ### Aspectos positivos:
 
