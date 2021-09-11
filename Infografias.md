@@ -4,7 +4,7 @@
 
 He escogido estas infografías porque hablan sobre un tema muy candente. Aunque todos estemos cansados del Coronavirus aún convive con nosotros por eso me parecía interesante buscar cómo se representa. 
 
-## [Infografía 1](google.com/imgres?imgurl=https://www.plenainclusion.org/wp-content/uploads/2021/03/coronavirus_infoportada.jpg&imgrefurl=https://www.plenainclusion.org/publicaciones/buscador/infografia-informacion-sobre-el-nuevo-coronavirus-lectura-facil/&tbnid=JyR1rLPihKpkwM&vet=1&docid=om09PitKaIvdkM&w=900&h=1335&hl=es-ES&source=sh/x/im)
+## [Infografía 1](https://www.google.com/imgres?imgurl=https://www.plenainclusion.org/wp-content/uploads/2021/03/coronavirus_infoportada.jpg&imgrefurl=https://www.plenainclusion.org/publicaciones/buscador/infografia-informacion-sobre-el-nuevo-coronavirus-lectura-facil/&tbnid=JyR1rLPihKpkwM&vet=1&docid=om09PitKaIvdkM&w=900&h=1335&hl=es-ES&source=sh/x/im)
 
 ### Estructura:
 - Definición
