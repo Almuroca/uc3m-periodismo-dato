@@ -65,7 +65,7 @@ Posiciones enfrentadas con Nightingale porque ella hablaba de limpieza (*teoría
 - Por ello, intenta predecir resultados electorales de Ohio sin éxito.
 - Tenían 120 segundos para usar el ordenador y él consigue algunos más. 
 - La clave para trabajar son los datos tabulados, el ordenador los entiende y a nuestros ojos es una tabla con filas y columnas. Usa datos tabulados sobre HARVARD DATA-TEXT. (Es el predecesor de SPSS).
-- **TRABAJO: DETROIT RIOTS.**1967**, plagado de disturbios sociales y civiles. 
+- **TRABAJO: DETROIT RIOTS**.**1967** (año plagado de disturbios sociales y civiles). 
 En Watts hubo una gran revuelta, el concierto (Wattstax) fue detrás de las revueltas de Watt.
 Contrató varios psicólogos y estuvo recopilando datos. Y así con la investigación llega PERIODISMO DE PRECISIÓN. 
 Consigue desmontar la teoría de Riff-Raff (revuelta para el avance) y la Assimilation (migraciones). Gracias a esta investigación descubren que eso no es cierto y consideran que la teoría que triunfa es la de las aspiraciones cortadas: cómo los demás progresan y tú te estancas. 
@@ -83,4 +83,7 @@ MC5 y Jon Lee Hocker importantes en las revueltas.
 4. Aplicaciones informáticas
 5. Visualización 
 
+### MEDIALAB-PRADO
 
+MEDIALAB PRADO, ACCESS, INFO EUROPE Y CIVIO
+José Luis de Vicente, Victoria Anderica, David Cabo, ALberto Cairo, Pepe Cervera, Antonio Delgado y Mar Cabra
