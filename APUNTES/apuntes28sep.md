@@ -12,3 +12,12 @@
 ## DATOS TERMINAL
 
 pwd: nos dice quiénes somos. 
+~~TACHADO~~
+
+## COMANDOS
+
+pwd
+ls
+cd
+git clone URL nombre
+git remote -v
