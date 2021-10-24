@@ -48,3 +48,4 @@ He escogido estas infografías porque hablan sobre un tema muy candente. Aunque 
 2. Falta estructura
 3. _Horror vacui_
 
+
