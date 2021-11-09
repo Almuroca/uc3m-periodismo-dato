@@ -4,6 +4,7 @@
 - Elección de tipografía: recurre a la tipografía clásica de arial para enseñar cada uno de los pasos. Me parece muy acertada esta decisión ya que este tipo de letra se utiliza para textos académics y es muy legible. 
 - Elección de tamaño de letra: utiliza diferentes tamaños en función de la información que proporciona. De esta forma, con un vistazo el lector puede distinguir qué es lo más importante.   
 - Elección de imágenes: resulta un poco errónea la elección de las imágenes ya que son muy poco representativas, es decir, debes leer qué información proporciona para saber qué representan. Así pues, sin iconos con poca utilidad. 
+- Fuente: VENNGAGE
 
 ## [INFOGRAFÍA 2](https://binaries.templates.cdn.office.net/support/templates/es-mx/lt44594937_quantized.png)
 
@@ -24,4 +25,5 @@ la infografía anterior. No obstante, se lee con bastante
 dificultad.
 - Elección de imágenes: muy buena elección, los iconos 
 son fáciles de indentificar con el texto del que se habla.
+- Fuente: Desconocida
 
