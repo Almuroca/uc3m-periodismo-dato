@@ -77,8 +77,16 @@ protagonista de esta infografía. Al mismo tiempo las combina con pequeñas foto
 
 ### [INFOGRAFÍA 2](https://pbs.twimg.com/media/FD0ppBZWQAIvOI4?format=jpg&name=large)
 
-- Elección de los colores: predomina el color blanco con algunos toques azules en diferentes tonos y grises. Luego aparecen algunos datos en rojo y otros en negro para mostrar su relevancia.
-- Elección de la tipografía: recurre a una letra seria y quizás poco legible pues es demasiado alta.
-- Elección del tamaño de letra: de nuevo, en función de la importancia unas aparecen en mayor tamaño que otras.
-- Elección de imágenes: solo aparecen iconos de aviones, personas dirigiendo, radares y aviones de operaciones especiales. Todos ellos aparecen con un tamaño reducido y de diferentes colores. Ayudan a dinamizar la infografía, ya que puede hacerse pesada debido a la cantidad de letras e información que aparece. 
-- Fuente: El Mundo.
+- Elección de los colores: predomina el color blanco con algunos 
+toques azules en diferentes tonos y grises. Luego aparecen algunos 
+datos en rojo y otros en negro para mostrar su relevancia. - 
+Elección de la tipografía: recurre a una letra seria y quizás poco 
+legible pues es demasiado alta. - Elección del tamaño de letra: de 
+nuevo, en función de la importancia unas aparecen en mayor tamaño 
+que otras. - Elección de imágenes: solo aparecen iconos de 
+aviones, personas dirigiendo, radares y aviones de operaciones 
+especiales. Todos ellos aparecen con un tamaño reducido y de 
+diferentes colores. Ayudan a dinamizar la infografía, ya que puede 
+hacerse pesada debido a la cantidad de letras e información que 
+aparece. - Fuente: El Mundo.
+
