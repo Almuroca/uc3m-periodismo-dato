@@ -33,10 +33,14 @@ son fáciles de indentificar con el texto del que se habla.
 
 ### [INFOGRAFÍA 3](https://www.cegid.com/uploads/2021/07/Infographics_Luxury_Retailing_in_China.png)
 
-- Elección de colores:
-- Elección de la tipografía:
-- Elección de tamaño de letra:
-- Elección de imágenes:
+- Elección de colores: recurre a colores azules y grises, la 
+elección de estos colores es muy apropiada ya que son colores 
+neutros que solemos relacionar con el equilibrio y la sobriedad. - 
+Elección de la tipografía: muy adecuada, ya que es legible y lo 
+suficientemente seria como para inspirar confianza en todos los 
+lectores. - Elección de tamaño de letra: para demostrar la 
+notoriedad de cada una de los aspectos que explica utiliza diferentes tamaños en función de la prioridad de los datos expuestos. - Elección de 
+imágenes: no aparecen muchas imágenes, solo algún icono que aporta dinamismo a la infografía. Sin embargo no tienen mucha relación con los datos expuestos, casi podrían ser prescindibles. - Fuente: Cegid.
 
 Esta podría ser la infografía más desarrollada de este apartado, 
 ya que expone la información en bloques y al mismo tiempo algunos 
@@ -73,8 +77,8 @@ protagonista de esta infografía. Al mismo tiempo las combina con pequeñas foto
 
 ### [INFOGRAFÍA 2](https://pbs.twimg.com/media/FD0ppBZWQAIvOI4?format=jpg&name=large)
 
-- Elección de los colores:
-- Elección de la tipografía:
-- Elección del tamaño de letra:
-- Elección de imágenes:
+- Elección de los colores: predomina el color blanco con algunos toques azules en diferentes tonos y grises. Luego aparecen algunos datos en rojo y otros en negro para mostrar su relevancia.
+- Elección de la tipografía: recurre a una letra seria y quizás poco legible pues es demasiado alta.
+- Elección del tamaño de letra: de nuevo, en función de la importancia unas aparecen en mayor tamaño que otras.
+- Elección de imágenes: solo aparecen iconos de aviones, personas dirigiendo, radares y aviones de operaciones especiales. Todos ellos aparecen con un tamaño reducido y de diferentes colores. Ayudan a dinamizar la infografía, ya que puede hacerse pesada debido a la cantidad de letras e información que aparece. 
 - Fuente: El Mundo.
