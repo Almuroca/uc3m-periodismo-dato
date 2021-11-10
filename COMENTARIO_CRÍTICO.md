@@ -90,3 +90,17 @@ diferentes colores. Ayudan a dinamizar la infografía, ya que puede
 hacerse pesada debido a la cantidad de letras e información que 
 aparece. - Fuente: El Mundo.
 
+### [INFOGRAFÍA 3](https://www.researchgate.net/profile/Felix-Arias-Robles/publication/280245664/figure/fig1/AS:391526829051908@1470358678702/Figura-1-Infografia-de-The-Guardian-Fuente.png)
+
+- Elección de los colores: de nuevo opta por colores grises y azules.
+- Elección de la tipografía: apuesta por una letra en times con serifas, porque aporta más seriedad y rigurosidad.
+- Elección del tamaño de letra: de nuevo se marca en mayor tamaño lo que se considera más relevante.
+- Elección de imágenes: solo aparece el mapa del mundo centrado en América del Sur y en menor tamaño el mapa del mundo.
+- Fuente: The Guardian.
+
+Si comparamos ambas infografías deducimos que las informativas 
+recurren a colores más neutros y parecidos. La letra que utilizan 
+también es muy similar. Es decir, que las infografías dependiendo 
+de su finalidad y dónde quede expuesto siguen unas pautas u otras. Como hemos visto, han sufrido una gran evolución y avance gracias a los adelantos tecnológicos.
+
+
