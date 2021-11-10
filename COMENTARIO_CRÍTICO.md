@@ -53,7 +53,7 @@ población.
 
 ## INFOGRAFÍAS DE NOTICIAS
 
-### [INFOGRAFÍA 1](https://ep00.epimg.net/infografias/2021/09/volcan/recorrido-lava5/recorrido-lava5-movil2.jpg?v=1589)
+### [INFOGRAFÍA 1: EL PAÍS](https://ep00.epimg.net/infografias/2021/09/volcan/recorrido-lava5/recorrido-lava5-movil2.jpg?v=1589)
 
 - Elección de los colores: la infografía respeta el color de fondo 
 de la naturaleza, por eso priman los colores verdes y marrones. 
@@ -75,7 +75,7 @@ por satélite, en la que se ve La Palma, la localización
 protagonista de esta infografía. Al mismo tiempo las combina con pequeñas fotografías detalle de la lava, las casas y el ambiente.
 - Fuente: El País.
 
-### [INFOGRAFÍA 2](https://pbs.twimg.com/media/FD0ppBZWQAIvOI4?format=jpg&name=large)
+### [INFOGRAFÍA 2: EL MUNDO](https://pbs.twimg.com/media/FD0ppBZWQAIvOI4?format=jpg&name=large)
 
 - Elección de los colores: predomina el color blanco con algunos 
 toques azules en diferentes tonos y grises. Luego aparecen algunos 
@@ -90,7 +90,7 @@ diferentes colores. Ayudan a dinamizar la infografía, ya que puede
 hacerse pesada debido a la cantidad de letras e información que 
 aparece. - Fuente: El Mundo.
 
-### [INFOGRAFÍA 3](https://www.researchgate.net/profile/Felix-Arias-Robles/publication/280245664/figure/fig1/AS:391526829051908@1470358678702/Figura-1-Infografia-de-The-Guardian-Fuente.png)
+### [INFOGRAFÍA 3: THE GUARDIAN](https://www.researchgate.net/profile/Felix-Arias-Robles/publication/280245664/figure/fig1/AS:391526829051908@1470358678702/Figura-1-Infografia-de-The-Guardian-Fuente.png)
 
 - Elección de los colores: de nuevo opta por colores grises y azules.
 - Elección de la tipografía: apuesta por una letra en times con serifas, porque aporta más seriedad y rigurosidad.
@@ -102,5 +102,6 @@ Si comparamos ambas infografías deducimos que las informativas
 recurren a colores más neutros y parecidos. La letra que utilizan 
 también es muy similar. Es decir, que las infografías dependiendo 
 de su finalidad y dónde quede expuesto siguen unas pautas u otras. Como hemos visto, han sufrido una gran evolución y avance gracias a los adelantos tecnológicos.
+
 
 
