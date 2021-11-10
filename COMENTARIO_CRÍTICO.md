@@ -1,6 +1,8 @@
-# INFOGRAFÍAS EXPLICATIVAS
+# PRÁCTICA 2: COMENTARIO CRÍTICO DE INFOGRAFÍAS
 
-## [INFOGRAFÍAS](https://venngage-wordpress.s3.amazonaws.com/uploads/2020/10/de948b23-9771-4a6d-824a-8199b6a79deb.png)
+## INFOGRAFÍAS GENERALES
+
+### [INFOGRAFÍA 1](https://venngage-wordpress.s3.amazonaws.com/uploads/2020/10/de948b23-9771-4a6d-824a-8199b6a79deb.png)
 
 - Elección de los colores: mezcla una gama de colores morados en una especie de degradado que resulta útil para diferenciar los pasos que menciona. Sin embargo, en los dos primeros pasos no resulta suficiente y resulta difícil distinguir cada uno de ellos.
 - Elección de tipografía: recurre a la tipografía clásica de arial para enseñar cada uno de los pasos. Me parece muy acertada esta decisión ya que este tipo de letra se utiliza para textos académics y es muy legible. 
@@ -8,7 +10,7 @@
 - Elección de imágenes: resulta un poco errónea la elección de las imágenes ya que son muy poco representativas, es decir, debes leer qué información proporciona para saber qué representan. Así pues, sin iconos con poca utilidad. 
 - Fuente: VENNGAGE
 
-## [INFOGRAFÍA 2](https://binaries.templates.cdn.office.net/support/templates/es-mx/lt44594937_quantized.png)
+### [INFOGRAFÍA 2](https://binaries.templates.cdn.office.net/support/templates/es-mx/lt44594937_quantized.png)
 
 - Elección de los colores: recurre a diferentes colores en la zona 
 de arriba predomina el color azul y morado. En la zona de abajo 
@@ -29,9 +31,25 @@ dificultad.
 son fáciles de indentificar con el texto del que se habla.
 - Fuente: Desconocida
 
-# INFOGRAFÍAS DE NOTICIAS.
+### [INFOGRAFÍA 3](https://www.cegid.com/uploads/2021/07/Infographics_Luxury_Retailing_in_China.png)
 
-## [INFOGRAFÍA 1](https://ep00.epimg.net/infografias/2021/09/volcan/recorrido-lava5/recorrido-lava5-movil2.jpg?v=1589)
+- Elección de colores:
+- Elección de la tipografía:
+- Elección de tamaño de letra:
+- Elección de imágenes:
+
+Esta podría ser la infografía más desarrollada de este apartado, 
+ya que expone la información en bloques y al mismo tiempo algunos 
+de los bloques están subdivididos. La infografía presenta de forma 
+atractiva un gran número de cifras. Además sabe combinar muy bien 
+los mapas con los porcentajes económicos. De esta forma, se deduce 
+que realmente nos encontramos con una empresa dedicada a aspectos 
+económicos a nivel mundial que intenta trasladar sus conocimientos al resto de la 
+población.
+
+## INFOGRAFÍAS DE NOTICIAS
+
+### [INFOGRAFÍA 1](https://ep00.epimg.net/infografias/2021/09/volcan/recorrido-lava5/recorrido-lava5-movil2.jpg?v=1589)
 
 - Elección de los colores: la infografía respeta el color de fondo 
 de la naturaleza, por eso priman los colores verdes y marrones. 
@@ -52,3 +70,11 @@ importante.
 por satélite, en la que se ve La Palma, la localización 
 protagonista de esta infografía. Al mismo tiempo las combina con pequeñas fotografías detalle de la lava, las casas y el ambiente.
 - Fuente: El País.
+
+### [INFOGRAFÍA 2](https://pbs.twimg.com/media/FD0ppBZWQAIvOI4?format=jpg&name=large)
+
+- Elección de los colores:
+- Elección de la tipografía:
+- Elección del tamaño de letra:
+- Elección de imágenes:
+- Fuente: El Mundo.
