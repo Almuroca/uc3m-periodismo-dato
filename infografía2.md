@@ -73,7 +73,8 @@ importante.
 - Elección de imágenes: opta por una imagen realizada 
 por satélite, en la que se ve La Palma, la localización 
 protagonista de esta infografía. Al mismo tiempo las combina con pequeñas fotografías detalle de la lava, las casas y el ambiente.
-- Fuente: El País.
+- Fuente:[El País](https://elpais.com/ciencia/2021-09-20/volcan-de-la-palma-por-donde-se-espera-que-avancen-las-lenguas-de-lava-hacia-el-mar.html)
+
 
 ![INFOGRAFÍA 2: EL MUNDO](https://pbs.twimg.com/media/FD0ppBZWQAIvOI4?format=jpg&name=large)
 
