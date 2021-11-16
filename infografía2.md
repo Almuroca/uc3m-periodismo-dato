@@ -73,8 +73,10 @@ importante.
 - Elección de imágenes: opta por una imagen realizada 
 por satélite, en la que se ve La Palma, la localización 
 protagonista de esta infografía. Al mismo tiempo las combina con pequeñas fotografías detalle de la lava, las casas y el ambiente.
-- Fuente:[El País](https://elpais.com/ciencia/2021-09-20/volcan-de-la-palma-por-donde-se-espera-que-avancen-las-lenguas-de-lava-hacia-el-mar.html)
+- Fuente: [El País](https://elpais.com/ciencia/2021-09-20/volcan-de-la-palma-por-donde-se-espera-que-avancen-las-lenguas-de-lava-hacia-el-mar.html)
 
+Como aspecto a comentar en la infografía no se ven todas las líneas ni nombres, como vimos un día en clase. Esto se debe al cambio de formato que provoca que ocurran estos errores. 
+ 
 
 ![INFOGRAFÍA 2: EL MUNDO](https://pbs.twimg.com/media/FD0ppBZWQAIvOI4?format=jpg&name=large)
 
@@ -89,7 +91,8 @@ aviones, personas dirigiendo, radares y aviones de operaciones
 especiales. Todos ellos aparecen con un tamaño reducido y de 
 diferentes colores. Ayudan a dinamizar la infografía, ya que puede 
 hacerse pesada debido a la cantidad de letras e información que 
-aparece. - Fuente:[El Mundo](https://www.elmundo.es/economia/2021/11/09/618967fafdddff90758b45b1.html)
+aparece. 
+- Fuente: [El Mundo](https://www.elmundo.es/economia/2021/11/09/618967fafdddff90758b45b1.html)
  
 
 ![INFOGRAFÍA 3: THE GUARDIAN](https://www.researchgate.net/profile/Felix-Arias-Robles/publication/280245664/figure/fig1/AS:391526829051908@1470358678702/Figura-1-Infografia-de-The-Guardian-Fuente.png)
@@ -98,7 +101,7 @@ aparece. - Fuente:[El Mundo](https://www.elmundo.es/economia/2021/11/09/618967fa
 - Elección de la tipografía: apuesta por una letra en times con serifas, porque aporta más seriedad y rigurosidad.
 - Elección del tamaño de letra: de nuevo se marca en mayor tamaño lo que se considera más relevante.
 - Elección de imágenes: solo aparece el mapa del mundo centrado en América del Sur y en menor tamaño el mapa del mundo.
-- Fuente:[The Guardian](https://www.theguardian.com/science)
+- Fuente: [The Guardian](https://www.theguardian.com/science)
 
 Si comparamos ambas infografías deducimos que las informativas 
 recurren a colores más neutros y parecidos. La letra que utilizan 
