@@ -6,6 +6,9 @@ He escogido estas infografías porque hablan sobre un tema muy candente. Aunque 
 
 ## [Infografía 1](https://www.google.com/imgres?imgurl=https://www.plenainclusion.org/wp-content/uploads/2021/03/coronavirus_infoportada.jpg&imgrefurl=https://www.plenainclusion.org/publicaciones/buscador/infografia-informacion-sobre-el-nuevo-coronavirus-lectura-facil/&tbnid=JyR1rLPihKpkwM&vet=1&docid=om09PitKaIvdkM&w=900&h=1335&hl=es-ES&source=sh/x/im)
 
+![coronavirus_infoportada](https://user-images.githubusercontent.com/90314055/142019755-09dc437a-ca19-4ac6-8775-aa8272488f8d.jpg)
+
+
 ### Estructura:
 - Definición
 - Síntomas
@@ -37,6 +40,8 @@ He escogido estas infografías porque hablan sobre un tema muy candente. Aunque 
 
 ## [Infografía 3](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.paho.org%2Fes%2Ffile%2F61944%2Fdownload%3Ftoken%3D5uaPIUTG&imgrefurl=https%3A%2F%2Fwww.paho.org%2Fes%2Fdocumentos%2Finfografia-covid-19-cubra-su-tos&tbnid=--SoihKmu-P7KM&vet=1&docid=Ye7OcyCoa03leM&w=1275&h=1650&hl=es-ES&source=sh%2Fx%2Fim#imgrc=--SoihKmu-P7KM&imgdii=XBMXDLZaA5D_1M)
 
+
+
 ### Aspectos positivos:
 
 1. Uso adecuado del color
@@ -47,5 +52,6 @@ He escogido estas infografías porque hablan sobre un tema muy candente. Aunque 
 1. Demasiada información
 2. Falta estructura
 3. _Horror vacui_
+
 
 
