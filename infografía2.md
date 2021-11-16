@@ -10,7 +10,7 @@
 - Elección de imágenes: resulta un poco errónea la elección de las imágenes ya que son muy poco representativas, es decir, debes leer qué información proporciona para saber qué representan. Así pues, sin iconos con poca utilidad. 
 - Fuente: VENNGAGE
 
-### [INFOGRAFÍA 2](https://binaries.templates.cdn.office.net/support/templates/es-mx/lt44594937_quantized.png)
+![INFOGRAFÍA 2](https://binaries.templates.cdn.office.net/support/templates/es-mx/lt44594937_quantized.png)
 
 - Elección de los colores: recurre a diferentes colores en la zona 
 de arriba predomina el color azul y morado. En la zona de abajo 
@@ -31,7 +31,7 @@ dificultad.
 son fáciles de indentificar con el texto del que se habla.
 - Fuente: Desconocida
 
-### [INFOGRAFÍA 3](https://www.cegid.com/uploads/2021/07/Infographics_Luxury_Retailing_in_China.png)
+![INFOGRAFÍA 3](https://www.cegid.com/uploads/2021/07/Infographics_Luxury_Retailing_in_China.png)
 
 - Elección de colores: recurre a colores azules y grises, la 
 elección de estos colores es muy apropiada ya que son colores 
@@ -53,7 +53,7 @@ población.
 
 ## INFOGRAFÍAS DE NOTICIAS
 
-### [INFOGRAFÍA 1: EL PAÍS](https://ep00.epimg.net/infografias/2021/09/volcan/recorrido-lava5/recorrido-lava5-movil2.jpg?v=1589)
+![INFOGRAFÍA 1: EL PAÍS](https://ep00.epimg.net/infografias/2021/09/volcan/recorrido-lava5/recorrido-lava5-movil2.jpg?v=1589)
 
 - Elección de los colores: la infografía respeta el color de fondo 
 de la naturaleza, por eso priman los colores verdes y marrones. 
@@ -75,7 +75,7 @@ por satélite, en la que se ve La Palma, la localización
 protagonista de esta infografía. Al mismo tiempo las combina con pequeñas fotografías detalle de la lava, las casas y el ambiente.
 - Fuente: El País.
 
-### [INFOGRAFÍA 2: EL MUNDO](https://pbs.twimg.com/media/FD0ppBZWQAIvOI4?format=jpg&name=large)
+![INFOGRAFÍA 2: EL MUNDO](https://pbs.twimg.com/media/FD0ppBZWQAIvOI4?format=jpg&name=large)
 
 - Elección de los colores: predomina el color blanco con algunos 
 toques azules en diferentes tonos y grises. Luego aparecen algunos 
@@ -90,7 +90,7 @@ diferentes colores. Ayudan a dinamizar la infografía, ya que puede
 hacerse pesada debido a la cantidad de letras e información que 
 aparece. - Fuente: El Mundo.
 
-### [INFOGRAFÍA 3: THE GUARDIAN](https://www.researchgate.net/profile/Felix-Arias-Robles/publication/280245664/figure/fig1/AS:391526829051908@1470358678702/Figura-1-Infografia-de-The-Guardian-Fuente.png)
+![INFOGRAFÍA 3: THE GUARDIAN](https://www.researchgate.net/profile/Felix-Arias-Robles/publication/280245664/figure/fig1/AS:391526829051908@1470358678702/Figura-1-Infografia-de-The-Guardian-Fuente.png)
 
 - Elección de los colores: de nuevo opta por colores grises y azules.
 - Elección de la tipografía: apuesta por una letra en times con serifas, porque aporta más seriedad y rigurosidad.
