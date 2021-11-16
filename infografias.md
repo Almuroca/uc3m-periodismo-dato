@@ -41,6 +41,8 @@ He escogido estas infografías porque hablan sobre un tema muy candente. Aunque 
 
 ## [Infografía 3](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.paho.org%2Fes%2Ffile%2F61944%2Fdownload%3Ftoken%3D5uaPIUTG&imgrefurl=https%3A%2F%2Fwww.paho.org%2Fes%2Fdocumentos%2Finfografia-covid-19-cubra-su-tos&tbnid=--SoihKmu-P7KM&vet=1&docid=Ye7OcyCoa03leM&w=1275&h=1650&hl=es-ES&source=sh%2Fx%2Fim#imgrc=--SoihKmu-P7KM&imgdii=XBMXDLZaA5D_1M)
 
+![nfer-png-5f50a2b9dec0e](https://user-images.githubusercontent.com/90314055/142022604-65c2c9ca-db82-44be-8935-55c1d88a9454.jpg)
+
 ### Aspectos positivos:
 
 1. Uso adecuado del color
