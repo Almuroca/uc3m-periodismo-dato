@@ -124,6 +124,7 @@ por satélite, en la que se ve La Palma, la localización
 protagonista de esta infografía. Al mismo tiempo las combina con 
 pequeñas fotografías detalle de la lava, las casas y el ambiente. 
 - Fuente: [El País](https://elpais.com/ciencia/2021-09-20/volcan-de-la-palma-por-donde-se-espera-que-avancen-las-lenguas-de-lava-hacia-el-mar.html)
+- Autor: Mariano Zafra y Luis Sevillano Pires. 
 
 Como aspecto a comentar en la infografía no se ven todas las 
 líneas ni nombres, como vimos un día en clase. Para 
@@ -151,6 +152,7 @@ diferentes colores. Ayudan a dinamizar la infografía, ya que puede
 hacerse pesada debido a la cantidad de letras e información que 
 aparece. 
 - Fuente: [El Mundo](https://www.elmundo.es/economia/2021/11/09/618967fafdddff90758b45b1.html)
+- Autora: Isabel González. 
 
 ### INFOGRAFÍA 3 
 
@@ -165,6 +167,7 @@ que se considera más relevante.
 - Elección de imágenes: solo aparece el mapa del mundo centrado en América del Sur y en menor 
 tamaño el mapa del mundo.
 - Fuente: [The Guardian](https://www.theguardian.com/science)
+- Autora: Christine Oliver.
 
 Si comparamos ambas infografías deducimos que las informativas 
 recurren a colores más neutros y parecidos. La letra que utilizan 
