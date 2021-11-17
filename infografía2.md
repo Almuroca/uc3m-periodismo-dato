@@ -75,7 +75,7 @@ por satélite, en la que se ve La Palma, la localización
 protagonista de esta infografía. Al mismo tiempo las combina con pequeñas fotografías detalle de la lava, las casas y el ambiente.
 - Fuente: [El País](https://elpais.com/ciencia/2021-09-20/volcan-de-la-palma-por-donde-se-espera-que-avancen-las-lenguas-de-lava-hacia-el-mar.html)
 
-Como aspecto a comentar en la infografía no se ven todas las líneas ni nombres, como vimos un día en clase. Esto se debe al cambio de formato que provoca que ocurran estos errores. 
+Como aspecto a comentar en la infografía no se ven todas las líneas ni nombres, como vimos un día en clase. Esto se debe al cambio de formato que provoca que ocurran estos errores. Para poder verla al completo se vuelve necesario insertar en el link de la noticia. 
  
 
 ![INFOGRAFÍA 2: EL MUNDO](https://pbs.twimg.com/media/FD0ppBZWQAIvOI4?format=jpg&name=large)
