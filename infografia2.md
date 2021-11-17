@@ -11,7 +11,7 @@ interesantes que podemos comentar.
 
 ### INFOGRAFÍA 1
 
-![CÓMO HACER UN INFOGRAFÍA EN 5 PASOS](/imagenes/infografiageneral1.png)
+![Cómo hacer una infografía en cinco pasos](/imagenes/infografiageneral1.png)
 
 - Elección de los colores: mezcla una gama de colores morados en 
 una especie de degradado que resulta útil para diferenciar los 
@@ -33,7 +33,7 @@ representan. Así pues, sin iconos con poca utilidad.
 
 ### INFOGRAFÍA 2
 
-![CÓMO AHORRAR DINERO](/imagenes/infografiageneral2.png)
+![Cómo ahorrar dinero](/imagenes/infografiageneral2.png)
 
 - Elección de los colores: recurre a diferentes colores en la zona 
 de arriba predomina el color azul y morado. En la zona de abajo 
@@ -56,7 +56,7 @@ son fáciles de indentificar con el texto del que se habla.
 
 ### INFOGRAFÍA 3
 
-![LUXURY RETAILING IN CHINA](/imagenes/infografiageneral3.png)
+![Luxury retailing in China](/imagenes/infografiageneral3.png)
 
 - Elección de colores: recurre a colores azules y grises, la 
 elección de estos colores es muy apropiada ya que son colores 
@@ -87,7 +87,9 @@ al resto de la población.
 
 ### INFOGRAFÍA 1
 
-![RADIOGRAFÍA DE LA ZONA ARRASADA POR LA LAVA Y TRAYECTORIA PREVISTA](/img/https://ep00.epimg.net/infografias/2021/09/volcan/recorrido-lava5/recorrido-lava5-movil2.jpg?v=1589)
+![Radiografía de la zona arrasada por la lava y trayectoria prevista](/imagenes/captura1.png)
+![Radiografía de la zona arrasada por la lava y trayectoria prevista](/imagenes/captura2.png) 
+![Radiografía de la zona arrasada por la lava y trayectoria prevista](/imagenes/captura3.png)
 
 - Elección de los colores: la infografía respeta el color de fondo 
 de la naturaleza, por eso priman los colores verdes y marrones. 
@@ -115,7 +117,7 @@ Como aspecto a comentar en la infografía no se ven todas las líneas ni nombres
  
 ### INFOGRAFÍA 2
 
-![UN ESPACIO AÉREO QUE INTEGRE TODO TIPO DE AERONAVES](/imagenes/infografianoticia2.png)
+![Un espacio aéreo que integre todo tipo de aviones](/imagenes/infografianoticia2.png)
 
 - Elección de los colores: predomina el color blanco con algunos 
 toques azules en diferentes tonos y grises. Luego aparecen algunos 
@@ -135,7 +137,7 @@ aparece.
 
 ### INFOGRAFÍA 3 
 
-![THE SKA:AN EYE ON THE MAKINGS OF THE UNIVERSE](/imagenes/infografianoticia3.png)
+![The SKA: an eye on the makings of the universe](/imagenes/infografianoticia3.png)
 
 - Elección de los colores: de nuevo opta por colores grises y 
 azules.
