@@ -5,7 +5,18 @@ se tomará como referencia un artículo publicado por Alberto Cairo
 el **28 de febrero de 2012** en el blog de [El 
 País](https://blogs.elpais.com/periodismo-con-futuro/2012/02/elegirgrafico.html). 
 Aunque pueda parecer que está obsoleto, tiene aspectos muy 
-interesantes que podemos comentar.
+interesantes que podemos comentar. 
+
+El ejercicio está dividido en dos partes, la primera recibe el 
+nombre de "Infografías Generales" y presenta infografías de temas 
+muy banales que se pueden encontrar en páginas webs o en internet 
+si se busca directamente introduciendo la palabra clave de 
+infografías. La segunda parte recibe el nombre de "Infografías de 
+noticias" y reúne una serie de infografías extraídas directemente 
+de medios muy reconocidos. De esta forma, la intención de dicho 
+ejercicio consiste en apreciar las diferencias de presentación, 
+color y más concretamente cuidado que presentan unas u otras al 
+exponer su información.
 
 ## INFOGRAFÍAS GENERALES
 
@@ -16,19 +27,18 @@ interesantes que podemos comentar.
 - Elección de los colores: mezcla una gama de colores morados en 
 una especie de degradado que resulta útil para diferenciar los 
 pasos que menciona. Sin embargo, en los dos primeros pasos no 
-resulta suficiente y resulta difícil distinguir cada uno de ellos. 
-- Elección de tipografía: recurre a la tipografía clásica de arial 
-para enseñar cada uno de los pasos. Me parece muy acertada esta 
-decisión ya que este tipo de letra se utiliza para textos 
-académics y es muy legible. 
-- Elección de tamaño de letra: utiliza 
-diferentes tamaños en función de la información que proporciona. 
-De esta forma, con un vistazo el lector puede distinguir qué es lo 
-más importante. 
-- Elección de imágenes: resulta un poco errónea 
-la elección de las imágenes ya que son muy poco representativas, 
-es decir, debes leer qué información proporciona para saber qué 
-representan. Así pues, sin iconos con poca utilidad. 
+resulta suficiente esta diferencia de color y resulta difícil 
+distinguir cada uno de ellos. 
+- Elección de tipografía: recurre a la tipografía clásica de arial para enseñar cada uno de los pasos. 
+Me parece muy acertada esta decisión ya que este tipo de letra se 
+utiliza para textos académics y es muy legible. 
+- Elección de tamaño de letra: utiliza diferentes tamaños en función de la 
+información que proporciona. De esta forma, con un vistazo el 
+lector puede distinguir qué es lo más importante. 
+- Elección de imágenes: resulta un poco errónea la elección de las imágenes ya 
+que son muy poco representativas, es decir, debes leer qué 
+información proporciona para saber qué representan. Así pues, sin 
+iconos con poca utilidad. 
 - Fuente: VENNGAGE
 
 ### INFOGRAFÍA 2
@@ -88,7 +98,9 @@ al resto de la población.
 ### INFOGRAFÍA 1
 
 ![Radiografía de la zona arrasada por la lava y trayectoria prevista](/imagenes/captura1.png)
+
 ![Radiografía de la zona arrasada por la lava y trayectoria prevista](/imagenes/captura2.png) 
+
 ![Radiografía de la zona arrasada por la lava y trayectoria prevista](/imagenes/captura3.png)
 
 - Elección de los colores: la infografía respeta el color de fondo 
