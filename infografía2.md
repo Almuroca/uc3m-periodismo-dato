@@ -61,7 +61,8 @@ En esta sección aparecerá un comentario fundamentado en una publicación de un
 de la naturaleza, por eso priman los colores verdes y marrones. 
 Las líneas incorporadas por el medio son rojas y amarillas, color 
 muy relacionado con la lava,así que podría considerarse una buena 
-elección. - Elección de la tipografía: utiliza diferentes 
+elección. 
+- Elección de la tipografía: utiliza diferentes 
 tipofrafías con distintos resaltados. Los datos más relevantes 
 aparecen con un resaltado más fuerte. Hay otros aspectos 
 analíticos que aparecen en cursiva porque son meramente 
@@ -84,11 +85,13 @@ Como aspecto a comentar en la infografía no se ven todas las líneas ni nombres
 
 - Elección de los colores: predomina el color blanco con algunos 
 toques azules en diferentes tonos y grises. Luego aparecen algunos 
-datos en rojo y otros en negro para mostrar su relevancia. - 
-Elección de la tipografía: recurre a una letra seria y quizás poco 
-legible pues es demasiado alta. - Elección del tamaño de letra: de 
+datos en rojo y otros en negro para mostrar su relevancia. 
+- Elección de la tipografía: recurre a una letra seria y quizás poco 
+legible pues es demasiado alta. 
+- Elección del tamaño de letra: de 
 nuevo, en función de la importancia unas aparecen en mayor tamaño 
-que otras. - Elección de imágenes: solo aparecen iconos de 
+que otras. 
+- Elección de imágenes: solo aparecen iconos de 
 aviones, personas dirigiendo, radares y aviones de operaciones 
 especiales. Todos ellos aparecen con un tamaño reducido y de 
 diferentes colores. Ayudan a dinamizar la infografía, ya que puede 
