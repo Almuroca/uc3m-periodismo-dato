@@ -113,11 +113,16 @@ protagonista de esta infografía. Al mismo tiempo las combina con
 pequeñas fotografías detalle de la lava, las casas y el ambiente. 
 - Fuente: [El País](https://elpais.com/ciencia/2021-09-20/volcan-de-la-palma-por-donde-se-espera-que-avancen-las-lenguas-de-lava-hacia-el-mar.html)
 
-Como aspecto a comentar en la infografía no se ven todas las líneas ni nombres, como vimos un día en clase. Esto se debe al cambio de formato que provoca que ocurran estos errores. Para poder verla al completo se vuelve necesario insertar el link de la noticia y hacerlo mediante captura e insertarlo desde la carpeta Imagenes que hay en el repositorio de Github.  
+Como aspecto a comentar en la infografía no se ven todas las 
+líneas ni nombres, como vimos un día en clase. Para 
+poder verla al completo se vuelve necesario insertar el link de la 
+noticia y hacerlo mediante captura e insertarlo desde la carpeta 
+Imagenes que hay en el repositorio de Github. Esta infografía resulta difícil de observar ya que es demasiado grande, incluso he tenido que realizar tres capturas de pantalla. 
+
  
 ### INFOGRAFÍA 2
 
-![Un espacio aéreo que integre todo tipo de aviones](/imagenes/infografianoticia2.png)
+![Un espacio aéreo que integre todo tipo de aviones](/imagenes/infografianoticia2.jpeg)
 
 - Elección de los colores: predomina el color blanco con algunos 
 toques azules en diferentes tonos y grises. Luego aparecen algunos 
