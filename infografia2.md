@@ -11,8 +11,7 @@ interesantes que podemos comentar.
 
 ### INFOGRAFÍA 1
 
-![CÓMO HACER UN INFOGRAFÍA EN 5 PASOS](/img/infografiageneral1.p
-ng)
+![CÓMO HACER UN INFOGRAFÍA EN 5 PASOS](/imagenes/infografiageneral1.png)
 
 - Elección de los colores: mezcla una gama de colores morados en 
 una especie de degradado que resulta útil para diferenciar los 
@@ -25,7 +24,7 @@ académics y es muy legible.
 - Elección de tamaño de letra: utiliza 
 diferentes tamaños en función de la información que proporciona. 
 De esta forma, con un vistazo el lector puede distinguir qué es lo 
-más importante.  
+más importante. 
 - Elección de imágenes: resulta un poco errónea 
 la elección de las imágenes ya que son muy poco representativas, 
 es decir, debes leer qué información proporciona para saber qué 
@@ -34,7 +33,7 @@ representan. Así pues, sin iconos con poca utilidad.
 
 ### INFOGRAFÍA 2
 
-![CÓMO AHORRAR DINERO](/img/infografiageneral2.png)
+![CÓMO AHORRAR DINERO](/imagenes/infografiageneral2.png)
 
 - Elección de los colores: recurre a diferentes colores en la zona 
 de arriba predomina el color azul y morado. En la zona de abajo 
@@ -57,7 +56,7 @@ son fáciles de indentificar con el texto del que se habla.
 
 ### INFOGRAFÍA 3
 
-![LUXURY RETAILING IN CHINA](/img/infografiageneral3.png)
+![LUXURY RETAILING IN CHINA](/imagenes/infografiageneral3.png)
 
 - Elección de colores: recurre a colores azules y grises, la 
 elección de estos colores es muy apropiada ya que son colores 
@@ -116,7 +115,7 @@ Como aspecto a comentar en la infografía no se ven todas las líneas ni nombres
  
 ### INFOGRAFÍA 2
 
-![UN ESPACIO AÉREO QUE INTEGRE TODO TIPO DE AERONAVES](/img/infografianoticia2.png)
+![UN ESPACIO AÉREO QUE INTEGRE TODO TIPO DE AERONAVES](/imagenes/infografianoticia2.png)
 
 - Elección de los colores: predomina el color blanco con algunos 
 toques azules en diferentes tonos y grises. Luego aparecen algunos 
@@ -136,7 +135,7 @@ aparece.
 
 ### INFOGRAFÍA 3 
 
-![THE SKA:AN EYE ON THE MAKINGS OF THE UNIVERSE](/img/infografianoticia3.png)
+![THE SKA:AN EYE ON THE MAKINGS OF THE UNIVERSE](/imagenes/infografianoticia3.png)
 
 - Elección de los colores: de nuevo opta por colores grises y 
 azules.
