@@ -16,14 +16,14 @@ He escogido estas infografías porque hablan sobre un tema muy candente. Aunque 
 
 ### Aspectos positivos:
 
-1. Uso de colores
-2. Recurrir a muñecos con expresiones
-3. Objetos (botella, teléfono) reconocibles 
+1. Uso de colores llamativos que fijan la atención del espectador.
+2. Recurrir a muñecos con expresiones: ayuda al espectador a empatizar con la acción que se representa.
+3. Objetos (botella, teléfono) reconocibles que cualquiera puede tener en casa, así que se establece una relación directa con aquel que la observe.
 
 ### Aspectos mejorables: 
 
-1. Mucha letra
-2. Sería preferible un fondo oscuro
+1. Mucha letra, resulta complicado fijar la atención en todo el texto, sobre todo si el espectador lleva prisa.
+2. Sería preferible un fondo oscuro, se lee mejor letra blanca sobre fondo negro, resulta menos cansado para la vista.
 3. Letra pequeña 
 
 ## [Infografía 2](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.paho.org%2Fes%2Ffile%2F61944%2Fdownload%3Ftoken%3D5uaPIUTG&imgrefurl=https%3A%2F%2Fwww.paho.org%2Fes%2Fdocumentos%2Finfografia-covid-19-cubra-su-tos&tbnid=--SoihKmu-P7KM&vet=1&docid=Ye7OcyCoa03leM&w=1275&h=1650&hl=es-ES&source=sh%2Fx%2Fim)
@@ -31,8 +31,8 @@ He escogido estas infografías porque hablan sobre un tema muy candente. Aunque 
 ![cubra-su-tos-es(1)](https://user-images.githubusercontent.com/90314055/142019899-0168170a-b03a-4404-ace2-839128011f0f.jpg)
 
 ### Aspectos  positivos:
-1. Buena combinación de colores
-2. Destaca las palabras importantes
+1. Buena combinación de colores.
+2. Destaca las palabras importantes para fijar la atención del lector en puntos clave.
 3. Queda claro el orden de prioridades, lo importante es utilizar papel. 
 
 ### Aspectos mejorables:
