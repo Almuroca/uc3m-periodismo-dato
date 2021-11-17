@@ -11,7 +11,8 @@ interesantes que podemos comentar.
 
 ### INFOGRAFÍA 1
 
-![CÓMO HACER UN INFOGRAFÍA EN 5 PASOS](https://venngage-wordpress.s3.amazonaws.com/uploads/2020/10/de948b23-9771-4a6d-824a-8199b6a79deb.png)
+![CÓMO HACER UN INFOGRAFÍA EN 5 PASOS](/img/infografiageneral1.p
+ng)
 
 - Elección de los colores: mezcla una gama de colores morados en 
 una especie de degradado que resulta útil para diferenciar los 
@@ -33,7 +34,7 @@ representan. Así pues, sin iconos con poca utilidad.
 
 ### INFOGRAFÍA 2
 
-![CÓMO AHORRAR DINERO](https://binaries.templates.cdn.office.net/support/templates/es-mx/lt44594937_quantized.png)
+![CÓMO AHORRAR DINERO](/img/infografiageneral2.png)
 
 - Elección de los colores: recurre a diferentes colores en la zona 
 de arriba predomina el color azul y morado. En la zona de abajo 
@@ -56,7 +57,7 @@ son fáciles de indentificar con el texto del que se habla.
 
 ### INFOGRAFÍA 3
 
-![LUXURY RETAILING IN CHINA](https://www.cegid.com/uploads/2021/07/Infographics_Luxury_Retailing_in_China.png)
+![LUXURY RETAILING IN CHINA](/img/infografiageneral3.png)
 
 - Elección de colores: recurre a colores azules y grises, la 
 elección de estos colores es muy apropiada ya que son colores 
@@ -87,7 +88,7 @@ al resto de la población.
 
 ### INFOGRAFÍA 1
 
-![RADIOGRAFÍA DE LA ZONA ARRASADA POR LA LAVA Y TRAYECTORIA PREVISTA](https://ep00.epimg.net/infografias/2021/09/volcan/recorrido-lava5/recorrido-lava5-movil2.jpg?v=1589)
+![RADIOGRAFÍA DE LA ZONA ARRASADA POR LA LAVA Y TRAYECTORIA PREVISTA](/img/https://ep00.epimg.net/infografias/2021/09/volcan/recorrido-lava5/recorrido-lava5-movil2.jpg?v=1589)
 
 - Elección de los colores: la infografía respeta el color de fondo 
 de la naturaleza, por eso priman los colores verdes y marrones. 
@@ -115,7 +116,7 @@ Como aspecto a comentar en la infografía no se ven todas las líneas ni nombres
  
 ### INFOGRAFÍA 2
 
-![UN ESPACIO AÉREO QUE INTEGRE TODO TIPO DE AERONAVES](https://pbs.twimg.com/media/FD0ppBZWQAIvOI4?format=jpg&name=large)
+![UN ESPACIO AÉREO QUE INTEGRE TODO TIPO DE AERONAVES](/img/infografianoticia2.png)
 
 - Elección de los colores: predomina el color blanco con algunos 
 toques azules en diferentes tonos y grises. Luego aparecen algunos 
@@ -135,7 +136,7 @@ aparece.
 
 ### INFOGRAFÍA 3 
 
-![THE SKA:AN EYE ON THE MAKINGS OF THE UNIVERSE](https://www.researchgate.net/profile/Felix-Arias-Robles/publication/280245664/figure/fig1/AS:391526829051908@1470358678702/Figura-1-Infografia-de-The-Guardian-Fuente.png)
+![THE SKA:AN EYE ON THE MAKINGS OF THE UNIVERSE](/img/infografianoticia3.png)
 
 - Elección de los colores: de nuevo opta por colores grises y 
 azules.
