@@ -53,6 +53,8 @@ población.
 
 ## INFOGRAFÍAS DE NOTICIAS
 
+En esta sección aparecerá un comentario fundamentado en una publicación de un blog de El País titulado ["Periodismo con futuro"]:(https://blogs.elpais.com/periodismo-con-futuro/2012/02/elegirgrafico.html)
+
 ![INFOGRAFÍA 1: EL PAÍS](https://ep00.epimg.net/infografias/2021/09/volcan/recorrido-lava5/recorrido-lava5-movil2.jpg?v=1589)
 
 - Elección de los colores: la infografía respeta el color de fondo 
