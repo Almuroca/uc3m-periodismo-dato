@@ -1,5 +1,7 @@
 # PRÁCTICA 2: COMENTARIO CRÍTICO DE INFOGRAFÍAS
 
+## INTRODUCCIÓN
+
 Para realizar el segundo ejercicio relacionado con las infografías 
 se tomará como referencia un artículo publicado por Alberto Cairo 
 el 28 de febrero de 2012 en el blog de [El País](https://blogs.elpais.com/periodismo-con-futuro/2012/02/elegirgrafico.html). 
@@ -97,7 +99,7 @@ al resto de la población.
 
 ## INFOGRAFÍAS DE NOTICIAS
 
-### Infografía El País
+### Infografía: El País
 
 ![Radiografía de la zona arrasada por la lava y trayectoria prevista](/imagenes/captura1.png)
 
@@ -138,7 +140,7 @@ resulta difícil de observar ya que es demasiado grande, incluso he
 tenido que realizar tres capturas de pantalla.
 
  
-### Infografía El Mundo
+### Infografía: El Mundo
 
 ![Un espacio aéreo que integre todo tipo de aviones](/imagenes/infografianoticia2.jpeg)
 
@@ -172,7 +174,7 @@ deduzco que en el futuro harán menos falta los trabajadores.
 
 
 
-### Infografía The Guardian
+### Infografía: The Guardian
 
 ![The SKA: an eye on the makings of the universe](/imagenes/infografianoticia3.png)
 
