@@ -2,15 +2,14 @@
 
 Para realizar el segundo ejercicio relacionado con las infografías 
 se tomará como referencia un artículo publicado por Alberto Cairo 
-el **28 de febrero de 2012** en el blog de [El 
-País](https://blogs.elpais.com/periodismo-con-futuro/2012/02/elegirgrafico.html). 
+el **28 de febrero de 2012** en el blog de [El País](https://blogs.elpais.com/periodismo-con-futuro/2012/02/elegirgrafico.html). 
 Aunque pueda parecer que está obsoleto, tiene aspectos muy 
 interesantes que puedo rescatar. 
 
 El ejercicio está dividido en dos partes, la primera recibe el 
 nombre de "Infografías Generales" y presenta infografías de temas 
-muy banales que se pueden encontrar en páginas webs o en internet 
-si se busca directamente introduciendo la palabra clave de 
+muy banales que pude encontrar en páginas webs o en internet 
+cuando busqué introduciendo la palabra clave de 
 infografías. La segunda parte recibe el nombre de "Infografías de 
 noticias" y reúne una serie de infografías extraídas directemente 
 de medios muy reconocidos. De esta forma, la intención de dicho 
@@ -20,7 +19,7 @@ exponer su información.
 
 ## INFOGRAFÍAS GENERALES
 
-### Infografía rescatada de Internet 1
+### Infografía rescatada de Internet
 
 ![Cómo hacer una infografía en cinco pasos](/imagenes/infografiageneral1.png)
 
@@ -44,7 +43,7 @@ qué información proporciona para saber qué representan. Así pues,
 sin iconos con poca utilidad. 
 - Fuente: VENNGAGE
 
-### Infografía rescatada de Internet 2
+### Infografía rescatada de Internet
 
 ![Cómo ahorrar dinero](/imagenes/infografiageneral2.png)
 
@@ -55,7 +54,8 @@ realidad los colores de la zona de arriba son más parecidos entre
 sí que los de abajo, lo cual puede confundir un poco a aquel que 
 visualice la imagen. Por ende, yo recomendaría una gama de colores 
 más parecida en toda la infografía o diferentes colores en la zona 
-de arriba y de abajo. - Elección de la tipografía: hay un juego de 
+de arriba y de abajo. 
+- Elección de la tipografía: hay un juego de 
 tipografías ya que utiliza una línea más redonda que inspira 
 confianza al espectador y otra con serifas para marcar más 
 elegancia y seriedad. Quiere demostrar que los datos que ofrece 
@@ -131,10 +131,12 @@ pequeñas fotografías detalle de la lava, las casas y el ambiente.
 - Fecha: 20 de septiembte de 2021
 
 Como aspecto a comentar en la infografía no se ven todas las 
-líneas ni nombres, como vimos un día en clase. Para 
-poder verla al completo se vuelve necesario insertar el link de la 
-noticia y hacerlo mediante captura e insertarlo desde la carpeta 
-Imagenes que hay en el repositorio de Github. Esta infografía resulta difícil de observar ya que es demasiado grande, incluso he tenido que realizar tres capturas de pantalla. 
+líneas ni nombres, como vimos un día en clase. Para poder verla al 
+completo se vuelve necesario insertar el link de la noticia y 
+meter la imagen como captura rescatándola desde la carpeta 
+Imágenes que hay en el repositorio de Github. De todo ello, deduzco que esta infografía 
+resulta difícil de observar ya que es demasiado grande, incluso he 
+tenido que realizar tres capturas de pantalla.
 
  
 ### Infografía El Mundo
@@ -143,27 +145,31 @@ Imagenes que hay en el repositorio de Github. Esta infografía resulta difícil 
 
 - Elección de los colores: predomina el color blanco con algunos 
 toques azules en diferentes tonos y grises. Luego aparecen algunos 
-datos en rojo y otros en negro para mostrar su relevancia. - 
-Elección de la tipografía: recurre a una letra seria y quizás poco 
-legible pues es demasiado alta. 
-- Elección del tamaño de letra: de 
-nuevo, en función de la importancia unas aparecen en mayor tamaño 
-que otras. 
-- Elección de imágenes: solo aparecen iconos de 
-aviones, personas dirigiendo, radares y aviones de operaciones 
-especiales. Todos ellos aparecen con un tamaño reducido y de 
-diferentes colores. Ayudan a dinamizar la infografía, ya que puede 
-hacerse pesada debido a la cantidad de letras e información que 
-aparece. Asimismo resulta interesante la diferencia entre la 
-arquitectua actual y la futura. La primera de ellas sitúa cada 
-objeto en su lugar, es decir, aviones por el cielo, el usuario 
-como intermediario entre aviones y los radares en la parte 
-inferior. La de su derecha muestra el doble de aviones y los 
-intermediarios tienen un tamaño más pequeño por lo que deduzco que 
-en el futuro harán menos falta los trabajadores.
-- Fuente: [El 
-Mundo](https://www.elmundo.es/economia/2021/11/09/618967fafdddff90758b45b1.html) 
-- Autora: Isabel González. - Fecha: 9 de noviembre de 2021
+datos en rojo y otros en negro para mostrar su relevancia. 
+-Elección de la tipografía: recurre a una letra seria y quizás 
+poco legible pues es demasiado alta y aparecen demasiadas palabras 
+un poco técnicas. 
+- Elección del tamaño de letra: de nuevo, en 
+función de la importancia unas aparecen en mayor tamaño que otras. 
+Una gran elección, pues obliga al lector a ver aquello que le 
+interesa al periodista. 
+- Elección de imágenes: solo aparecen 
+iconos de aviones, personas dirigiendo, radares y aviones de 
+operaciones especiales. Todos ellos aparecen con un tamaño 
+reducido y de diferentes colores, es decir no son lo más 
+importante de la infografía. Sin embargo el conjunto de ellos sí 
+que parece relevante. Estos iconos ayudan a dinamizar la 
+infografía, ya que puede hacerse pesada debido a la cantidad de 
+letras e información que aparece. Asimismo resulta interesante la 
+diferencia entre la arquitectua actual y la futura. La primera de 
+ellas sitúa cada objeto en su lugar, es decir, aviones por el 
+cielo, el usuario como intermediario entre aviones y los radares 
+en la parte inferior. La de su derecha muestra el doble de aviones 
+y los intermediarios tienen un tamaño más pequeño por lo que 
+deduzco que en el futuro harán menos falta los trabajadores. 
+- Fuente: [El Mundo](https://www.elmundo.es/economia/2021/11/09/618967fafdddff90758b45b1.html) 
+- Autora: Isabel González. 
+- Fecha: 9 de noviembre de 2021
 
 
 
@@ -171,26 +177,25 @@ Mundo](https://www.elmundo.es/economia/2021/11/09/618967fafdddff90758b45b1.html)
 
 ![The SKA: an eye on the makings of the universe](/imagenes/infografianoticia3.png)
 
-- Elección de los colores: de nuevo opta por colores grises y 
-azules, muy representativos en las noticias como venimos observando y como comenta Antonio Cairo. Deduzco que es un color con el que el lector logra empatizar y leer bien las infografías.
-- Elección de la tipografía: apuesta por una letra en 
-times con serifas, porque aporta más seriedad y rigurosidad y el tema que trata, al ser informativo lo merece. 
-- Elección del tamaño de letra: de nuevo se marca en mayor tamaño lo 
-que se considera más relevante. 
-- Elección de imágenes: solo aparece el mapa del mundo centrado en América del Sur y en menor 
-tamaño el mapa del mundo. Según Antonio Cairo, es importante poner la información en la parte superior porque el lector concentra su primer vistazo en esa parte. 
-- Fuente: [The Guardian](https://www.theguardian.com/science)
-- Autora: Christine Oliver.
+- Elección de los colores: de nuevo opta por colores grises y azules, muy representativos en las noticias como venimos observando y como 
+comenta Antonio Cairo. Deduzco que es un color con el que el lector logra empatizar y leer bien las infografías pues es bastante neutro. 
+- Elección de la tipografía: apuesta por una letra en times con serifas, porque aporta más seriedad y rigurosidad. Además, el tema que trata, al ser informativo lo merece. 
+- Elección del tamaño de letra: de nuevo se marca en mayor tamaño lo que se considera más relevante. 
+- Elección de imágenes: solo aparece el 
+mapa del mundo centrado en América del Sur y en menor tamaño el mapa del mundo. Según Antonio Cairo, es importante poner la información en la 
+parte superior porque el lector concentra su primer vistazo en esa parte. 
+- Fuente: [The Guardian](https://www.theguardian.com/science) 
+- Autora: Christine Oliver. 
 - Fecha: 15 de septiembre de 2011
 
-Si comparamos ambas infografías deducimos que las informativas 
-recurren a colores más neutros y parecidos. La letra que utilizan 
-también es muy similar. Es decir, que las infografías dependiendo 
-de su finalidad y dónde quede expuesto siguen unas pautas u otras. 
-Como hemos visto, han sufrido una gran evolución y avance gracias 
-a los adelantos tecnológicos.
 
-## Conclusión
+## Conclusión de las comparaciones
 
-Como conclusión me quedo con la idea de que las infografías de Internet suelen presentar un estilo más sencillo porque va dirigido a la población en su conjunto. Sin embargo, las infografías de las noticias están más cuidadas porque se entiende que sus lectores suelen o deberían ser personas con un mayor nivel de estudios. 
+Como conclusión me quedo con la idea de que las infografías de Internet suelen presentar un estilo más sencillo porque va dirigido a la 
+población en su conjunto. Sin embargo, las infografías de las noticias están más cuidadas porque se entiende que sus lectores suelen o 
+deberían ser personas con un mayor nivel de estudios. Si comparamos ambas infografías deducimos que las informativas recurren a colores más 
+neutros y parecidos. La letra que utilizan también es muy similar y la forma de organizar la información es determinante, pues su principal 
+objetivo es informar y deben tener cuidado en los detalles para lograrlo. Es decir, que las infografías dependiendo de 
+su finalidad y dónde se presentan siguen unas pautas u otras. Además he podido apreciar que han sufrido una gran evolución y avance gracias a los 
+adelantos tecnológicos. De hecho, se ve que las más antiguas son más sencillas. 
 
