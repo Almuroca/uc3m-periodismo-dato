@@ -11,7 +11,7 @@ nombre de "Infografías Generales" y presenta infografías de temas
 muy banales que pude encontrar en páginas webs o en internet 
 cuando busqué introduciendo la palabra clave de 
 infografías. La segunda parte recibe el nombre de "Infografías de 
-noticias" y reúne una serie de infografías extraídas directemente 
+noticias" y reúne una serie de infografías extraídas directamente 
 de medios muy reconocidos. De esta forma, la intención de dicho 
 ejercicio consiste en apreciar las diferencias de presentación, 
 color y más concretamente cuidado que presentan unas u otras al 
@@ -41,7 +41,7 @@ un vistazo el lector puede distinguir qué es lo más importante.
 imágenes ya que son muy poco representativas, es decir, debes leer 
 qué información proporciona para saber qué representan. Así pues, 
 sin iconos con poca utilidad. 
-- Fuente: VENNGAGE
+- Fuente: VENNGAGE.
 
 ### Infografía rescatada de Internet
 
@@ -64,16 +64,16 @@ son para todos y al mismo tiempo son fiables.
 tamaños en función de su importancia como se aprecia en la 
 infografía anterior. No obstante, se lee con bastante dificultad. 
 - Elección de imágenes: muy buena elección, los iconos son fáciles 
-de indentificar con el texto del que se habla. 
-- Fuente: Desconocida
+de identificar con el texto del que se habla. 
+- Fuente: Desconocida.
 
-### Infografía tomada de una página web
+### Infografía tomada de una página web: Cegid
 
 ![Luxury retailing in China](/imagenes/infografiageneral3.png)
 
 - Elección de colores: recurre a colores azules y grises, la 
 elección de estos colores es muy apropiada ya que son colores 
-neutros que solemos relacionar con el equilibrio y la sobriedad. - 
+neutros que solemos relacionar con el equilibrio y la sobriedad.  
 - Elección de la tipografía: muy adecuada, ya que es legible y lo 
 suficientemente seria como para inspirar confianza en todos los 
 lectores. 
@@ -128,7 +128,7 @@ protagonista de esta infografía. Al mismo tiempo las combina con
 pequeñas fotografías detalle de la lava, las casas y el ambiente. 
 - Fuente: [El País](https://elpais.com/ciencia/2021-09-20/volcan-de-la-palma-por-donde-se-espera-que-avancen-las-lenguas-de-lava-hacia-el-mar.html)
 - Autor: Mariano Zafra y Luis Sevillano Pires. 
-- Fecha: 20 de septiembte de 2021
+- Fecha: 20 de septiembre de 2021
 
 Como aspecto a comentar en la infografía no se ven todas las 
 líneas ni nombres, como vimos un día en clase. Para poder verla al 
@@ -146,7 +146,7 @@ tenido que realizar tres capturas de pantalla.
 - Elección de los colores: predomina el color blanco con algunos 
 toques azules en diferentes tonos y grises. Luego aparecen algunos 
 datos en rojo y otros en negro para mostrar su relevancia. 
--Elección de la tipografía: recurre a una letra seria y quizás 
+- Elección de la tipografía: recurre a una letra seria y quizás 
 poco legible pues es demasiado alta y aparecen demasiadas palabras 
 un poco técnicas. 
 - Elección del tamaño de letra: de nuevo, en 
@@ -161,7 +161,7 @@ importante de la infografía. Sin embargo el conjunto de ellos sí
 que parece relevante. Estos iconos ayudan a dinamizar la 
 infografía, ya que puede hacerse pesada debido a la cantidad de 
 letras e información que aparece. Asimismo resulta interesante la 
-diferencia entre la arquitectua actual y la futura. La primera de 
+diferencia entre la arquitectura actual y la futura. La primera de 
 ellas sitúa cada objeto en su lugar, es decir, aviones por el 
 cielo, el usuario como intermediario entre aviones y los radares 
 en la parte inferior. La de su derecha muestra el doble de aviones 
