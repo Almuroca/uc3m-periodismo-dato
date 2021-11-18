@@ -23,13 +23,13 @@ exponer su información.
 
 ![Cómo hacer una infografía en cinco pasos](/imagenes/infografiageneral1.png)
 
--**Elección de los colores**: mezcla una gama de colores morados en 
+- **Elección de los colores**: mezcla una gama de colores morados en 
 una especie de degradado que resulta útil para diferenciar los 
 pasos que menciona. Sin embargo, en los dos primeros pasos no 
 resulta suficiente esta diferencia de color y resulta difícil 
 distinguir cada uno de ellos. Por lo que deduzco que la intención 
 principal de diferenciar no se ha logrado. 
--**Elección de tipografía**: recurre a la tipografía clásica de arial para enseñar 
+- **Elección de tipografía**: recurre a la tipografía clásica de arial para enseñar 
 cada uno de los pasos. Me parece muy acertada esta decisión ya que 
 este tipo de letra se utiliza para textos académicos y es muy 
 legible. Por ello, la intención de mostrar una información parece que queda lograda.
