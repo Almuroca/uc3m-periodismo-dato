@@ -1,6 +1,6 @@
 # TERCERA ACTIVIDAD GRÁFICO DATAWRAPPER
 
-![#FelizMartes Junio 2020](/imagenes/ejercicio3.png)
+![#FelizMartes Junio 2020](/imagenes/felizmartes-en-twitter-junio-de-2021.png)
 
 ## ¿POR QUÉ UN GRÁFICO DE BARRAS?
 
