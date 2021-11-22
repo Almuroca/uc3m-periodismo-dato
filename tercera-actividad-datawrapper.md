@@ -2,7 +2,7 @@
 
 ![#FelizMartes Junio 2020](/imagenes/felizmartes-en-twitter-junio-de-2021.png)
 
-## ¿POR QUÉ UN GRÁFICO DE BARRAS?
+## ¿Por qué un gráfico de barras?
 
 El objetivo de este trabajo consiste en realizar un análisis del 
 desarrollo de #FelizMartes durante el mes de junio de 2020 a partir del Proyecto Tresca. Por 
