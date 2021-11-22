@@ -54,8 +54,8 @@ los tweets del día, no el conjunto de ellos.
 
 ### Datawrapper:
 
-1. Por último subí el csv al Datawrapper y utilicé solo dos 
-columnas, l de "Días" y la "Cantidad de Tweets". El propio 
+1.Subí el csv al Datawrapper y utilicé solo dos 
+columnas, la de "Días" y la "Cantidad de Tweets". El propio 
 programa detectó que eran fecha y cantidad así que no tuve que 
 tocar nada más. 
 2. Después escogí la gráfica de barras porque era 
