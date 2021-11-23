@@ -18,7 +18,11 @@ horaria que existe a nivel mundial.
 Opté por estudiar la evolución 
 del uso de este *hastag* sobre el Martes porque existen estudios 
 que confirman que es el peor día de la semana. Al mismo tiempo 
+<<<<<<< HEAD
 elegí el mes de junio porque #FelizMartes se convirtió en el *hastag* más 
+=======
+elegí el mes de junio porque se convirtió en el *hastag* más 
+>>>>>>> 8891798529a92944451638e6676f5b60d70cec38
 utilizado durante este mes.
 
 
@@ -52,7 +56,11 @@ los tweets del día, no el conjunto de ellos.
 
 ### Datawrapper:
 
+<<<<<<< HEAD
 1. Por último subí el csv al Datawrapper y utilicé solo dos 
+=======
+1.Subí el csv al Datawrapper y utilicé solo dos 
+>>>>>>> 8891798529a92944451638e6676f5b60d70cec38
 columnas, la de "Días" y la "Cantidad de Tweets". El propio 
 programa detectó que eran fecha y cantidad así que no tuve que 
 tocar nada más. 
