@@ -17,8 +17,8 @@ horaria que existe a nivel mundial.
 
 Opté por estudiar la evolución 
 del uso de este *hastag* sobre el Martes porque existen estudios 
-que confirman que es el peor mes de la semana. Al mismo tiempo 
-elegí el mes de junio porque se convirtió en el *hastag* más 
+que confirman que es el peor día de la semana. Al mismo tiempo 
+elegí el mes de junio porque #FelizMartes se convirtió en el *hastag* más 
 utilizado durante este mes.
 
 
@@ -41,9 +41,7 @@ todos en un mismo Hastag.
 - **Añadir columna**: tuve que añadir dos 
 columnas. La primera de ellas para introducir la columna "Meses". 
 La segunda de ellas cuando conseguí recopilar todos los *hastags* 
-en un mes puse los datos que me daba de los días sin los meses y 
-segundos utilizando la opción de editar la celda y escribiendo 
-directamente. 
+en un mes puse los datos que me daba de los días y quité la parte derecha de la fecha, es decir, los segundos. Para ello utilicé la opción de editar celda y escribí directamente. 
 - **Value.replace** y **faceta de estrellas**: para agrupar todos las fechas en 
 meses tuve que recurrir a value.replace y a la opción de faceta de 
 estrellas. Para ello, sustituí toda la columna por la palabra Marzo, para que luego al seleccionar con estrellas, ejecutar la faceta y suprimir los que eran valores falsos fuera más fácil utilizar el value.replace. 
@@ -55,7 +53,7 @@ los tweets del día, no el conjunto de ellos.
 ### Datawrapper:
 
 1. Por último subí el csv al Datawrapper y utilicé solo dos 
-columnas, l de "Días" y la "Cantidad de Tweets". El propio 
+columnas, la de "Días" y la "Cantidad de Tweets". El propio 
 programa detectó que eran fecha y cantidad así que no tuve que 
 tocar nada más. 
 2. Después escogí la gráfica de barras porque era 
@@ -71,6 +69,6 @@ en este caso en relación a la pantalla en la que se proyecta
 
 ### Terminal:
 
-1. Renombré el archivo descargado, lo subí a la carpeta de imagenes del Github.
+1. Renombré la gráfica que había descargado para que me fuera más fácil localizarla y la subí a la carpeta de imagenes del Github.
 2. Escribí el documento con el editor de texto nano. 
-3. Publicarlo en el Github a través de la terminal. 
+3. Lo publiqué en el Github a través de la terminal. 
