@@ -17,7 +17,7 @@ horaria que existe a nivel mundial.
 
 Opté por estudiar la evolución 
 del uso de este *hastag* sobre el Martes porque existen estudios 
-que confirman que es el peor mes de la semana. Al mismo tiempo 
+que confirman que es el peor día de la semana. Al mismo tiempo 
 elegí el mes de junio porque se convirtió en el *hastag* más 
 utilizado durante este mes.
 
