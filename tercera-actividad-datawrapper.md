@@ -1,4 +1,4 @@
-# TERCERA ACTIVIDAD GRÁFICO DATAWRAPPER
+# Tercera actividad: Gráfico con Datawrapper
 
 ![#FelizMartes Junio 2020](/imagenes/felizmartes-en-twitter-junio-de-2021.png)
 
