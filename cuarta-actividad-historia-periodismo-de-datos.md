@@ -10,7 +10,7 @@ Me parece un tema cuanto menos relevante e interesante para conocer las diferenc
 
 ### Tasa de riesgo de pobreza o exclusión social. 
 
-![Tasa de riesgo de pobreza o exclusión social](/imagenes/tasa-de-riesgo-de-pobreza-o-exclusion-social-.png)
+![Tasa de riesgo de pobreza o exclusión social](/imagenes/grafico1.png)
 
 #### Análisis 
 
