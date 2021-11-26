@@ -10,7 +10,7 @@ Me parece un tema cuanto menos relevante e interesante para conocer las diferenc
 
 ### Tasa de riesgo de pobreza o exclusión social. 
 
-![Tasa de riesgo de pobreza o exclusión social](/imagenes/grafico1.png)
+![Tasa de riesgo de pobreza o exclusión social](/imagenes/tasa-de-riesgo-de-pobreza-o-exclusi-n-social-.png)
 
 #### Análisis 
 
@@ -29,11 +29,11 @@ Por todo ello, el gráfico puede resultar útil para deducir que la tasa más ba
 
 Para empezar buscamos el CSV en el Instituto Nacional de Estadística (INE). A continuación lo exportamos en el OpenRefine y por medio de la faceta de texto en la primera columna "Comunidades y Ciudades Autónomas" seleccionamos la opción de "Total Nacional" dejando a parte el resto de Comunidades Autónomas porque lo importante es conocer la evolución anual de estos cuatro componentes a nivel nacional. 
 
-![Faceta de texto](/imagenes/Captura de pantalla1.png)
+![Faceta de texto](/imagenes/Capturadepantalla1.png)
 
 A continuación, mediante la opción de transformas celdas, modifiqué los datos de la segunda columna, "Total", en números. El OpenRefine no reconoce las comas, así que tuve que sustituirlas por puntos. Para ello, utilicé la transformación personalizada e introduje la expresión "value.replace(",","."). Una vez realizado este paso, pude transformarlo en números mediante la opción transformaciones comunes. 
 
-![Transformar en número](/imagenes/Captura de pantalla2.png)
+![Transformar en número](/imagenes/Capturadepantalla2.png)
 
 Cuando tenía todos los datos que necesitaba los exporté en DataWrapper.En esta herramienta de visualización, escogí la opción de Gráfico de Dispersión y a través de la customización personalizada le proporcioné los colores que quise a la gráfica. 
 
