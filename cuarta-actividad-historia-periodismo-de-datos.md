@@ -71,4 +71,9 @@ Luego la inserté en el DataWrapper y elegí el gráfico de flechas. En el terce
 
 
 ### Tasa de riesgo de pobreza en Comunidad Foral de Navarra
+
+![Riesgo de pobreza en Navarra](/imagenes/tasa-de-riesgo-de-pobreza-en-comunidad-foral-de-navarra.png)
+
 ### Tasa de riesgo de pobreza en Ceuta 
+
+![Riesgo de pobreza en Ceuta](/imagenes/tasa-de-riesgo-de-pobreza-en-ceuta.png)
