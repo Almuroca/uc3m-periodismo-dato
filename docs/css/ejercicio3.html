@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en" class="h-100">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Hugo 0.88.1">
+    <title>Tercera actividad</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/sticky-footer-navbar/">
+
+    
+
+    <!-- Bootstrap core CSS -->
+<link href="docs/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+
+    
+    <!-- Custom styles for this template -->
+    <link href="docs/css/sticky-footer-navbar.css" rel="stylesheet">
+  </head>
+  <body class="d-flex flex-column h-100">
+    
+<header>
+  <!-- Fixed navbar -->
+  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">Fixed navbar</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+        <ul class="navbar-nav me-auto mb-2 mb-md-0">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Link</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link disabled">Disabled</a>
+          </li>
+        </ul>
+        <form class="d-flex">
+          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success" type="submit">Search</button>
+        </form>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<!-- Begin page content -->
+<h1 id="tercera-actividad-gráfico-con-datawrapper">Tercera actividad: Gráfico con Datawrapper</h1>
+<figure>
+<img src="/imagenes/felizmartes-en-twitter-junio-de-2021.png" alt="" /><figcaption>#FelizMartes Junio 2020</figcaption>
+</figure>
+<h2 id="por-qué-un-gráfico-de-barras">¿Por qué un gráfico de barras?</h2>
+<p>El objetivo de este trabajo consiste en realizar un análisis del desarrollo de #FelizMartes durante el mes de junio de 2020 a partir del Proyecto Tresca. Por eso, el gráfico más apropiado para reflejar dicha evolución es uno de barras, ya que refleja de forma más visual cuan utilizado es este hastag a lo largo del mes.</p>
+<p>Como se puede apreciar solo aparecerán datos en los martes del mes de junio. Sin embargo, los miércoles también recogen este Hastag, aspecto cuanto menos curioso. Quizás se debe a la diferencia horaria que existe a nivel mundial.</p>
+<p>Opté por estudiar la evolución del uso de este <em>hastag</em> sobre el Martes porque existen estudios que confirman que es el peor día de la semana. Al mismo tiempo elegí el mes de junio porque #FelizMartes se convirtió en el <em>hastag</em> más utilizado durante este mes.</p>
+<h2 id="procedimiento-de-la-elaboración-de-la-gráfica">Procedimiento de la elaboración de la gráfica</h2>
+<h3 id="open-refine">Open Refine</h3>
+<p>En primer lugar, localicé el documento csv y lo exporté en el Open Refine, después seleccioné cómo quería que apareciera y escogí la opción de separado por comas. A continuación, suprimí las columnas que no iba a necesitar y me quedé únicamente con los días en los que se había publicado y la cantidad de HT publicados ese día.</p>
+<p>Para continuar trabajando utilicé diferentes herramientas que me permitieran elegir mi Hastag.</p>
+<ul>
+<li><strong>Faceta de texto</strong>: para seleccionar el #FelizMartes, como me aparecía el mismo hastag de diferentes formas (#Feliz Martes y #FelizMartesAtodos) recurrí a la opción de <em>cluster</em> para unir todos en un mismo Hastag.</li>
+<li><strong>Añadir columna</strong>: tuve que añadir dos columnas. La primera de ellas para introducir la columna “Meses”. La segunda de ellas cuando conseguí recopilar todos los <em>hastags</em> en un mes puse los datos que me daba de los días y quité la parte derecha de la fecha, es decir, los segundos. Para ello utilicé la opción de editar celda y escribí directamente.</li>
+<li><strong>Value.replace</strong> y <strong>faceta de estrellas</strong>: para agrupar todos las fechas en meses tuve que recurrir a value.replace y a la opción de faceta de estrellas. Para ello, sustituí toda la columna por la palabra Marzo, para que luego al seleccionar con estrellas, ejecutar la faceta y suprimir los que eran valores falsos fuera más fácil utilizar el value.replace.</li>
+</ul>
+<p>Lo que me ha resultado un poco más complicado ha sido agrupar los datos del mismo día. Por eso, he dejado en la gráfica el número de los tweets del día, no el conjunto de ellos.</p>
+<h3 id="datawrapper">Datawrapper:</h3>
+<ol type="1">
+<li>Por último subí el csv al Datawrapper y utilicé solo dos columnas, la de “Días” y la “Cantidad de Tweets”. El propio programa detectó que eran fecha y cantidad así que no tuve que tocar nada más.</li>
+<li>Después escogí la gráfica de barras porque era lo que más se acercaba a mi intención inicial sobre el análisis. En este mismo apartado seleccioné el máximo y el mínimo de datos del eje Vertical que se corresponde a la cantidad de Tweets. Para el eje horizontal escogí la opción automática ya que el resto solo se correpondía a los años y no reflejaba los días del mes. También elegí el color azul y el tamaño en el que quería que apareciera, en este caso en relación a la pantalla en la que se proyecta (ordenador). Añadí una breve leyenda en la que aparece la creadora, la fuente y el nombre de la aplicación utilizada.</li>
+<li>Publicarlo y descargarlo en PNG.</li>
+</ol>
+<h3 id="terminal">Terminal:</h3>
+<ol type="1">
+<li>Renombré la gráfica que había descargado para que me fuera más fácil localizarla y la subí a la carpeta de imagenes del Github.</li>
+<li>Escribí el documento con el editor de texto nano.</li>
+<li>Lo publiqué en el Github a través de la terminal.</li>
+</ol>
+</ol>
+<main class="flex-shrink-0">
+  <div class="container">
+    <h1 class="mt-5">Sticky footer with fixed navbar</h1>
+    <p class="lead">Pin a footer to the bottom of the viewport in desktop browsers with this custom HTML and CSS. A fixed navbar has been added with <code class="small">padding-top: 60px;</code> on the <code class="small">main &gt; .container</code>.</p>
+    <p>Back to <a href="../examples/sticky-footer/">the default sticky footer</a> minus the navbar.</p>
+  </div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-light">
+  <div class="container">
+    <span class="text-muted">Place sticky footer content here.</span>
+  </div>
+</footer>
+
+
+    <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
+
+      
+  </body>
+</html>
