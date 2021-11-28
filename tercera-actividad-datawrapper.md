@@ -43,11 +43,11 @@ La segunda de ellas cuando conseguí recopilar todos los *hastags*
 en un mes puse los datos que me daba de los días y quité la parte derecha de la fecha, es decir, los segundos. Para ello utilicé la opción de editar celda y escribí directamente. 
 - **Value.replace** y **faceta de estrellas**: para agrupar todos las fechas en 
 meses tuve que recurrir a value.replace y a la opción de faceta de 
-estrellas. Para ello, sustituí toda la columna por la palabra Marzo, para que luego al seleccionar con estrellas, ejecutar la faceta y suprimir los que eran valores falsos fuera más fácil utilizar el value.replace. 
+estrellas. Para ello, sustituí toda la columna por la palabra Marzo, luego los seleccioné con estrellas, ejecuté la faceta y suprimí los que eran valores falsos para que fuera más fácil utilizar el value.replace. 
 
 Lo que me ha resultado un poco más complicado ha sido agrupar los 
-datos del mismo día. Por eso, he dejado en la gráfica el número de 
-los tweets del día, no el conjunto de ellos. 
+datos del mismo día. Por eso, he dejado en la gráfica el número más alto de 
+los tweets de ese día, no el conjunto de ellos. 
 
 ### Datawrapper:
 
