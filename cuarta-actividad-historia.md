@@ -18,7 +18,7 @@ He realizado este gráfico de dispersión porque me parece la mejor manera de mo
 
 Los elementos que aparecen en el gráfico aparecen representados con colores diferentes:
 
-- Carencia material severa: en color gris ya que alude a bienes materiales
+- Carencia material severa: en color gris ya que alude a bienes materiales.
 - Riesgo de pobreza: aparece en color rojo ya que se relaciona con el peligro o advertencia como vemos en señales de tráfico por ejemplo.
 - Riesgo de exclusión social: aparece en color negro puesto que se relaciona con algo negativo, algo oscuro o trágico.
 - Vivir en hogares con baja intensidad en el trabajo: he puesto un color azul porque este color recuerda al  cumplimiento de la ley que recoge que todos tenemos derecho a una vivienda justa.
@@ -31,7 +31,7 @@ La tipografía que utilizo es muy comprensible, igual que el título escogido. A
 
 **OpenRefine:**
 
-Para empezar, busqué el tema que quería abordar en el INE y luego descargué el archivo como un CSV. A continuación, lo exporté en el OpenRefine y por medio de la faceta de texto en la primera columna "Comunidades y Ciudades Autónomas" seleccioné la opción de "Total Nacional" dejando a parte el resto de Comunidades Autónomas, porque lo importante es conocer la evolución anual de estos cuatro componentes a nivel nacional.
+Para empezar, busqué el tema que quería abordar en el INE y luego descargué el archivo como un .csv mediante el comando wget en la terminal. A continuación, lo exporté en el OpenRefine y por medio de la faceta de texto en la primera columna "Comunidades y Ciudades Autónomas" seleccioné la opción de "Total Nacional" dejando a parte el resto de Comunidades Autónomas, porque lo importante es conocer la evolución anual de estos cuatro componentes a nivel nacional.
 
 ![Faceta de texto](/imagenes/Capturadepantalla1.png)
 
@@ -54,9 +54,10 @@ Las cuatro gráficas que muestro a continuación se centran en uno de los aparta
 La siguente gráfica es de flechas y resulta muy útil para ver que la que menor tasa de pobreza registra es la Comunidad Foral de Navarra, mientras que la que presenta una mayor tasa es Ceuta. Se convierte en un gráfico muy visual y cualquier periódico podría incluirlo en sus noticias pues de  un golpe de vista se refleja la diferencia que existe en España.
 
 Aparecen en orden de menor a mayor, ya que proporciona un mayor entendimiento. Resulta más visual y práctico mostrar una grada descendente y poner en primera posición la tasa más pequeña. No obstante, depende de dónde quiera poner el foco la noticia, si quiere centrarse en la Comunidad con menor tasa de pobreza lo ideal es colocarla el primera posición. Si por el contrario prefiere hablar de la tasa más elevada, sería mejor poner Ceuta en la parte superior, es decir, invertir el orden.
+
 El color utilizado es el rojo, de nuevo por su simbología de peligro o aspecto negativo. Cuando uno dice que no tiene dinero, suele decir "estoy en números rojos". De ahí la elección del color.
 
-Al mismo tiempo he optado por poner el título en minúsculas porque resulta menos agresivo y he dejado la nomenclatura que utilizaba el INE para referirse a cada Comunidad Autónoma (Madrid, Comunidad de, en vez de Comunidad de Madrid). La tipografía es la misma en todos los gráficos por la intención de seriedad que pretender mostrar.
+Al mismo tiempo he optado por poner el título en minúsculas porque resulta menos agresivo y he dejado la nomenclatura que utilizaba el INE para referirse a cada Comunidad Autónoma (Madrid, Comunidad de, en vez de Comunidad de Madrid). No lo he modificado, porque si alguien quiere ordenar los datos por orden alfabético es preferible identificar así las comunidades autónomas. La tipografía es la misma en todos los gráficos por la intención de seriedad que pretender mostrar.
 
 #### ¿Cómo he realizado esta gráfica?
 
@@ -134,8 +135,7 @@ Mediante facetas de texto escogí los datos que me interesaban: Comunidad Foral 
 
 A continuación, reordené las columnas dejando en primera posición el período que abarca del 2008 al 2020. Luego añadí columna basada en el total que titulé "Comunidad Foral de Navarra" y mendiante la opción de value.replace sustituí el nombre de la comunidad por espacios en blanco. Una vez tuve una columna en blanco titulada Comunidad Foral de Navarra puse la tasa a mano en las trece celdas. Lo mismo hice con Ceuta, añadí una columna basada en la anterior que titulé Ceuta y la dejé en blanco para introducir a mano el total.
 
-![Captura nombre](/imagenes/Capturadepantallas4.png)
-![Captura añadir columna](/imagenes/Capturadepantallas5.png)
+![Captura nombre](/imagenes/Capturadepantallas4.png) ![Captura añadir columna](/imagenes/Capturadepantallas5.png)
 
 Por último, eliminé todas las filas que no aportaban la información que quería puesto que repetían información y reorganicé los datos: Período, Comunidad Foral de Navarra y Ceuta.
 
