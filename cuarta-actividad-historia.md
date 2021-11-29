@@ -31,7 +31,7 @@ La tipografía que utilizo es muy comprensible, igual que el título escogido. A
 
 **OpenRefine:**
 
-Para empezar, busqué el tema que quería abordar en el INE y luego descargué el archivo como un .csv mediante el comando wget en la terminal. A continuación, lo exporté en el OpenRefine y por medio de la faceta de texto en la primera columna "Comunidades y Ciudades Autónomas" seleccioné la opción de "Total Nacional" dejando a parte el resto de Comunidades Autónomas, porque lo importante es conocer la evolución anual de estos cuatro componentes a nivel nacional.
+Para empezar, busqué el tema que quería abordar en el INE y luego descargué el archivo como un .csv. A continuación, lo exporté en el OpenRefine y por medio de la faceta de texto en la primera columna "Comunidades y Ciudades Autónomas" seleccioné la opción de "Total Nacional" dejando a parte el resto de Comunidades Autónomas, porque lo importante es conocer la evolución anual de estos cuatro componentes a nivel nacional.
 
 ![Faceta de texto](/imagenes/Capturadepantalla1.png)
 
