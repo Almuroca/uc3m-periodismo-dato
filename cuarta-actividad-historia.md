@@ -27,7 +27,7 @@ Por todo ello, el gráfico puede resultar útil para deducir que la tasa más ba
 
 La tipografía que utilizo es muy comprensible, igual que el título escogido. Al mismo tiempo, he optado por poner un rango muy cercano a la tasa que aparece en el CSV y los números van de cinco en cinco por lo que se aprecia mejor la realidad expuesta.
 
-#### ¿Cómo se ha realizado esta gráfica?
+#### ¿Cómo he realizado esta gráfica?
 
 **OpenRefine:**
 
