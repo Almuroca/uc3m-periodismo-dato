@@ -33,9 +33,7 @@
 
     
     <!-- Custom styles for this template -->
-    <link href="docs/css/sticky-footer-navbar.css" rel="stylesheet">
-  </head>
-  <body class="d-flex flex-column h-100">
+ flex flex-column h-100">
     
 <header>
   <!-- Fixed navbar -->
@@ -138,7 +136,7 @@
 </footer>
 
 
-    <script src="docs/js/bootstrap.bundle.min.js"></script>
+    <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
 
       
   </body>
