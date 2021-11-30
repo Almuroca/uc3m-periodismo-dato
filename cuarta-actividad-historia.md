@@ -14,7 +14,7 @@ Me parece un tema cuanto menos relevante e interesante para conocer las diferenc
  
 #### Análisis 
 
-He realizado este gráfico de dispersión porque me parece la mejor manera de mostrar los cuatro componentes que recoge el CSV. Este gráfico se utiliza para relacionar dos variables, que en este caso serían la variable "X" que muestra la evolución temporal desde 2008 hasta 2020 y la variable "Y" que refleja la tasa de pobreza.
+He realizado este gráfico de dispersión porque me parece la mejor manera de mostrar los cuatro componentes que recoge el csv. Este gráfico se utiliza para relacionar dos variables, que en este caso serían la variable "X" que muestra la evolución temporal desde 2008 hasta 2020 y la variable "Y" que refleja la tasa de pobreza.
 
 Los elementos que aparecen en el gráfico aparecen representados con colores diferentes:
 
@@ -31,7 +31,7 @@ La tipografía que utilizo es muy comprensible, igual que el título escogido. A
 
 **OpenRefine**
 
-Para empezar, busqué el tema que quería abordar en el INE y luego descargué el archivo como un .csv. A continuación, lo exporté en el OpenRefine y por medio de la faceta de texto en la primera columna "Comunidades y Ciudades Autónomas" seleccioné la opción de "Total Nacional" dejando a parte el resto de Comunidades Autónomas, porque lo importante es conocer la evolución anual de estos cuatro componentes a nivel nacional.
+Para empezar, busqué el tema que quería abordar en el INE y luego descargué el archivo como un .csv (valores separados por comas). A continuación, lo exporté en el OpenRefine y por medio de la faceta de texto en la primera columna "Comunidades y Ciudades Autónomas" seleccioné la opción de "Total Nacional" dejando a parte el resto de Comunidades Autónomas, porque lo importante es conocer la evolución anual de estos cuatro componentes a nivel nacional.
 
 ![Faceta de texto](/imagenes/Capturadepantalla1.png)
 
