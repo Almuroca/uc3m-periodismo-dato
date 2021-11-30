@@ -2,7 +2,7 @@
 
 ## Datos seleccionados
 
-He escogido un archivo CSV del [Instituto Nacional de Estadística (INE)](https://www.ine.es/jaxiT3/Tabla.htm?t=10005&L=0) sobre la pobreza y sus componentes en las comunidades autónomas de España durante los últimos trece años. El documento, aborda cuestiones como el riesgo de exclusión social o de pobreza, la tasa de carencia material severa y la de hogares con baja intensidad en el trabajo.
+He escogido un archivo csv, es decir, de valores separados por coma del [Instituto Nacional de Estadística (INE)](https://www.ine.es/jaxiT3/Tabla.htm?t=10005&L=0) sobre la pobreza y sus componentes en las comunidades autónomas de España durante los últimos trece años. El documento, aborda cuestiones como el riesgo de exclusión social o de pobreza, la tasa de carencia material severa y la de hogares con baja intensidad en el trabajo.
  
 Me parece un tema cuanto menos relevante e interesante para conocer las diferencias económicas que existen en España. Por todo ello, los gráficos realizados intentan mostrar de una manera visual la variedad económica que se produce en el país. Para realizar estos gráficos he utilizado OpenRefine y Datawrapper. 
 
@@ -41,7 +41,7 @@ A continuación, mediante la opción de transformas celdas, modifiqué los datos
 
 **Datawrapper**
 
-Cuando tenía todos los datos que necesitaba los exporté en Datawrapper. En esta herramienta de visualización, escogí la opción de Gráfico de Dispersión y en ese mismo paso de la "Visualizar" hay un apartado llamado "Mejorar" donde elegí la customización personalizada que me permitió proporcionar los colores que quise a la gráfica. En visualizar también recurrí a la opción de "Anotar" donde incluí la leyenda del gráfico. Por último, en el subartado "Diseño" escogí la opción de "Español" para que esta leyenda apareciera en este idioma.
+Cuando tenía todos los datos que necesitaba los exporté en Datawrapper. En esta herramienta de visualización, escogí la opción de Gráfico de Dispersión y en ese mismo paso de la "Visualizar" hay un apartado llamado "Mejorar" donde elegí la customización personalizada que me permitió proporcionar los colores que quise a la gráfica. En visualizar también recurrí a la opción de "Anotar" donde incluí la leyenda del gráfico que resulta de gran utilidad para el lector, ya que aclara cuestiones de autoría, fuente y otras anotaciones que quieras poner. Por último, en el subartado "Diseño" escogí la opción de "Español" para que esta leyenda apareciera en este idioma.
 
 ### Tasa de riesgo de pobreza en España
  
@@ -65,9 +65,9 @@ Al mismo tiempo he optado por poner el título en minúsculas porque resulta men
 
 La gráfica presentada requiere un mayor nivel de limpieza que la anterior. Para realizarla he utilizado facetas de texto y transformaciones personalizadas.
 
-En primer lugar, una vez exporté el CSV realicé una faceta de texto en la tercera columna "Tasa de riesgo de pobreza o exclusión social (y sus componentes) y seleccioné "En riesgo de pobreza".
+En primer lugar, una vez exporté el archivo csv realicé una faceta de texto en la tercera columna "Tasa de riesgo de pobreza o exclusión social (y sus componentes) y seleccioné "En riesgo de pobreza".
 
-A continuación, me situé en la columna de Comunidades y Ciudades Autónomas y escogí la opción de editar celdas, vaciar hacia abajo. Cuando hice esto, todas las Comunidades Autónomas que aparecían en cada uno de los años (2008, 2009, 2010...) excepto una, desaparecieron y dejaron el resto de celdas en blanco. Es decir, en esta columna solo aparecía una vez el nombre de la comunidad autónoma y al lado cada uno de los totales.
+A continuación, me situé en la columna de Comunidades y Ciudades Autónomas y escogí la opción de editar celdas, vaciar hacia abajo. Cuando hice esto, todas las Comunidades Autónomas que aparecían en cada uno de los años (2008, 2009, 2010...) excepto una, desaparecieron y dejaron el resto de celdas en blanco. Es decir, en esta columna solo aparecía una vez el nombre de la comunidad autónoma y al lado cada uno de los totales. Es un ejercicio necesario porque al realizar el sumatorio se pone el mismo resultado en todas las celdas que se corresponden a dicha comunidad. Es decir, en la columna de "Comunidades" aparece muchas veces la misma comunidad repetida pero con datos diferentes y con este proceso lo que hago es poner el sumatorio de estos datos en una misma celda.
 
 El siguiente paso consiste en realizar el sumatorio para obtener posteriormente la media. El OpenRefine, como ya he mencionado, no reconoce las comas, pero ya había transformado las cifras en números (ver en gráfico anterior). Para poder sumar todos los valores, reordené las columnas dejando en primera posición la de "Comunidades" y a su lado la columna sobre la que se realizaría el Sumatorio. Me sitúe sobre la columna del Total y agregué una columna basada en la anterior. Cuando la hice tuve que introducir un título para la misma donde puse Media y la siguiente fórmula: row.record.cells["Total"].value.sum(). De esta forma, obtuve el sumatorio pero lo que a mí me interesaba era la media de esos trece años. Para conseguirla tuve que editar cada una de las celdas dividiendo desde la calculadora las cifras. Por último, desplacé la columna donde aparece la media al lado de las Comunidades Autónomas para que en el Datawrapper no me aparezca ningún error. (Hasta ese momento tenía la columna de comunidades, la del total transformada en números y la de la media).
 
@@ -93,7 +93,7 @@ En esta gráfica he escogido el color rojo porque la bandera de la Comunidad For
 
 **OpenRefine**
 
-Como ya he mencionado, es una gráfica muy sencilla, lo único que he tenido que hacer es jugar con las facetas de texto y elegir las que me interesaban. En este caso solo necesitaba dos datos: Comunidad Foral de Navarra conseguida por una faceta de texto en la columna "Comunidades" y la tasa de riesgo de pobreza que se encontraba en la columna "Tasa de riesgo de pobreza o exclusión social (y sus componentes)".
+Como ya he mencionado, es una gráfica muy sencilla, lo único que he tenido que hacer es jugar con las facetas de texto y elegir las que me interesaban. En este caso solo necesitaba dos datos: Comunidad Foral de Navarra conseguida por una faceta de texto en la columna "Comunidades" y la tasa de riesgo de pobreza que se encontraba en la columna "Tasa de riesgo de pobreza o exclusión social (y sus componentes)". Estas facetas me permiten ver sólo los datos que me interesan y aquellos con los que voy a "jugar". Además si tengo la faceta seleccionada al exportar solo me cogerá estos datos. 
 
 **Datawrapper**
 
@@ -133,7 +133,7 @@ Los colores que he utilizado son los mismos que había utilizado en las gráfica
 
 Mediante facetas de texto escogí los datos que me interesaban: Comunidad Foral de Navarra y Ceuta de la columna de "Comunidades" y riesgo de pobreza de la columna "Riesgo de pobreza y exclusión (y sus componentes).
 
-A continuación, reordené las columnas dejando en primera posición el período que abarca del 2008 al 2020. Luego añadí columna basada en el total que titulé "Comunidad Foral de Navarra" y mendiante la opción de value.replace sustituí el nombre de la comunidad por espacios en blanco. Una vez tuve una columna en blanco titulada Comunidad Foral de Navarra puse la tasa a mano en las trece celdas. Lo mismo hice con Ceuta, añadí una columna basada en la anterior que titulé Ceuta y la dejé en blanco para introducir a mano el total.
+A continuación, reordené las columnas dejando en primera posición el período que abarca del 2008 al 2020. (Reordenar los datos me permite colocar las columnas como me interesan en relación al gráfico que quiero realizar en el Datawrapper). Luego añadí columna basada en el "total" que titulé "Comunidad Foral de Navarra" y mendiante la opción de value.replace sustituí el nombre de la comunidad por espacios en blanco. Esto lo hice para tener una columna que reuniera solo los datos de Navarra. Una vez tuve una columna en blanco titulada Comunidad Foral de Navarra puse la tasa a mano en las trece celdas. Lo mismo hice con Ceuta, añadí una columna basada en la anterior que titulé Ceuta y la dejé en blanco para introducir a mano el total de dicha comunidad.
 
 ![Captura nombre](/imagenes/Capturadepantallas4.png) ![Captura añadir columna](/imagenes/Capturadepantallas5.png)
 
