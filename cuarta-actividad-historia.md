@@ -29,7 +29,7 @@ La tipografía que utilizo es muy comprensible, igual que el título escogido. A
 
 #### ¿Cómo he realizado esta gráfica?
 
-**OpenRefine:**
+**OpenRefine**
 
 Para empezar, busqué el tema que quería abordar en el INE y luego descargué el archivo como un .csv. A continuación, lo exporté en el OpenRefine y por medio de la faceta de texto en la primera columna "Comunidades y Ciudades Autónomas" seleccioné la opción de "Total Nacional" dejando a parte el resto de Comunidades Autónomas, porque lo importante es conocer la evolución anual de estos cuatro componentes a nivel nacional.
 
@@ -39,7 +39,7 @@ A continuación, mediante la opción de transformas celdas, modifiqué los datos
 
 ![Transformar en número](/imagenes/Capturadepantalla2.png)
 
-**Datawrapper:**
+**Datawrapper**
 
 Cuando tenía todos los datos que necesitaba los exporté en Datawrapper. En esta herramienta de visualización, escogí la opción de Gráfico de Dispersión y en ese mismo paso de la "Visualizar" hay un apartado llamado "Mejorar" donde elegí la customización personalizada que me permitió proporcionar los colores que quise a la gráfica. En visualizar también recurrí a la opción de "Anotar" donde incluí la leyenda del gráfico. Por último, en el subartado "Diseño" escogí la opción de "Español" para que esta leyenda apareciera en este idioma.
 
@@ -61,7 +61,7 @@ Al mismo tiempo he optado por poner el título en minúsculas porque resulta men
 
 #### ¿Cómo he realizado esta gráfica?
 
-**OpenRefine:**
+**OpenRefine**
 
 La gráfica presentada requiere un mayor nivel de limpieza que la anterior. Para realizarla he utilizado facetas de texto y transformaciones personalizadas.
 
@@ -75,7 +75,7 @@ Así es como quedaba la tabla limpia.
 
 ![Tabla limpia](/imagenes/Capturadepantalla3.png)
 
-**Datawrapper:**
+**Datawrapper**
 
 Inserté la tabla limpia en el Datawrapper y elegí el gráfico de flechas en la tercera fase de "Visualizar". En este mismo paso, customicé el color y elegí el orden. También puse una pequeña leyenda antes de descargarla en el paso de visualizar. Por último, completé el último paso de publicar e integrar y la descargué en mi ordenador y desde la terminal la incluí en mi carpeta imágenes de mi Github.
 
@@ -91,11 +91,11 @@ En esta gráfica he escogido el color rojo porque la bandera de la Comunidad For
 
 #### ¿Cómo he realizado esta gráfica?
 
-**OpenRefine:**
+**OpenRefine**
 
 Como ya he mencionado, es una gráfica muy sencilla, lo único que he tenido que hacer es jugar con las facetas de texto y elegir las que me interesaban. En este caso solo necesitaba dos datos: Comunidad Foral de Navarra conseguida por una faceta de texto en la columna "Comunidades" y la tasa de riesgo de pobreza que se encontraba en la columna "Tasa de riesgo de pobreza o exclusión social (y sus componentes)".
 
-**Datawrapper:**
+**Datawrapper**
 
 Cuando tenía los datos seleccionados los exporté mediante la opción exportar valor delimitado por comas. A continuación, introduje los datos en el Datawrapper, verifiqué y describí quitando las columnas que no me interesaban. En la tercera fase de "Visualizar" escogí la opción de Gráfico de columnas y con la posibilidad de "Mejorar" escogí el color que quise y dejé el porcentaje fijo. En esta misma fase introduje el título y la leyenda. Por último, en el cuarto paso "Publicar e integrar" descargué mi infografía con formato PNG.
 
@@ -129,7 +129,7 @@ Los colores que he utilizado son los mismos que había utilizado en las gráfica
 
 #### ¿Cómo he realizado este gráfico?
 
-**OpenRefine:**
+**OpenRefine**
 
 Mediante facetas de texto escogí los datos que me interesaban: Comunidad Foral de Navarra y Ceuta de la columna de "Comunidades" y riesgo de pobreza de la columna "Riesgo de pobreza y exclusión (y sus componentes).
 
@@ -141,11 +141,11 @@ Por último, eliminé todas las filas que no aportaban la información que quer�
 
 ![Limpieza](/imagenes/Capturadepantallas6.png)
 
-**Datawrapper:**
+**Datawrapper**
 
 Inserté el CSV que había descargado y escogí la opción gráfico de área. En la fase de visualizar, en el subapartado "Mejorar" escogí los colores, los valores que quería mostrar del eje vertical y las cuadrículas que quería ocultar del ejer horizontal. Luego anoté la información que me interesaba y la descargué como PNG.
  
-**Github:**
+**Github**
 
 Incluí la explicación en nano, añadiendo las imágenes que había subido desde la terminal a mi carpeta "imagenes" de mi repositorio uc3m-periodismo-de-dato y publiqué todo mediante el git add, git commit -m, git push origin main.
 
