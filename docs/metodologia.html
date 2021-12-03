@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="es" class="h-100">
+<!-- Cambio el idioma de "en" a "es" -->
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Almudena Romano">
+    <meta name="generator" content="nano">
+    <title>Trabajo final de las pruebas de evalucación continua de la  asignatura Periodismo de Datos</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/sticky-footer-navbar/">
+
+    
+
+    <!-- Bootstrap core CSS, la hoja de estilo básica de bootstrap, la he puesto en la carpeta css -->
+<link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+
+    
+    <!-- Custom styles for this template -->
+    <link href="css/sticky-footer-navbar.css" rel="stylesheet">
+  </head>
+  <body class="d-flex flex-column h-100">
+    
+<header>
+  <!-- Fixed navbar -->
+  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">Almudena Romano Cabello</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+        <ul class="navbar-nav me-auto mb-2 mb-md-0">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="index.html">Inicio</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="ejercicio1.html">Ejercicio 1</a>
+          </li>
+<li class="nav-item">
+        <a class="nav-link" href="ejercicio2.html">Ejercicio 2</a>          </li>
+<li class="nav-item">
+             <a class="nav-link" href="ejercicio3.html">Ejercicio 3</a>
+
+           </li>
+<li class="nav-item">
+             <a class="nav-link" href="ejercicio4.html">Ejercicio 4</a>
+  </li>
+<li class="nav-item">
+              <a class="nav-link" href="metodología.html">Metodología</a>
+   </li>
+
+
+          <li class="nav-item">
+            <a class="nav-link disabled">Disabled</a>
+          </li>
+        </ul>
+        <form class="d-flex">
+          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success" type="submit">Search</button>
+        </form>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<!-- Begin page content -->
+<main class="flex-shrink-0">
+  <div class="container">
+<h1 id="creación-de-esta-página-web">Creación de esta página web</h1>
+<p>El objetivo de esta página web consiste en reunir todas las actividades realizadas durante el curso 2020/2021.</p>
+<h2 id="cómo-he-realizado-esta-página-web">¿Cómo he realizado esta página web?</h2>
+<p>Antes de lanzar esta página web es necesario cumplir los siguientes pasos:</p>
+<ol type="1">
+<li><strong>Pandoc</strong>: para poder realizar este ejercicio he tenido que pasar todos los archivos que tenía en formato markdown a html. Para ello, tuve que instalarme Pandoc desde la terminal mediante el comando “sudo apt install”.</li>
+<li><strong>Bootstrap</strong>: en la página de Bootstrap me descargué los ejemplos. Una vez estaban instalados utilicé el comando “unzip” para extraer los que a mi me interesaban que se encontraban en la carpeta assets/dist/. En esta carpeta había otras dos: js y css. La primera de ellas hace referencia al lenguaje java script y la segunda a la hoja de estilo que vamos a utilizar.</li>
+<li><strong>Github carpetas</strong>: cuando ya tenía todo lo que necesitaba (Pandoc, ejemplos de Bootstrap) cree una nueva carpeta en mi repositorio uc3m-periodismo-dato. Para ello, desde la terminal me situé en mi repositorio mediante el comado (cd=change directory) y con el comando (mkdir=make directory) hice la carpeta docs/. Dentro de ella mediante el comando (cp=copy) introduje la carpeta css y js. En esta misma carpeta también copié la carpeta de imágenes que tenía, (cp ../uc3m-periodismo-dato/imagenes docs/.). Esta orden consiste en copiar la carpeta que tenía en mi repositorio a la nueva carpeta creada “/docs”.</li>
+<li><strong>Github, pages</strong>: en el apartado “Settings” de mi repositorio me situé en la opción Pages. Ahí hay una ocpión que te permite establecer dónde se va a contruir tu página web. Por eso, yo elegí como branch la opción main y la carpeta /docs. Una vez elegí las opciones le di a guardar y se generó un link que me permite acceder a mi <a href="https://almuroca.github.io/uc3m-periodismo-dato/">página web</a>.</li>
+</ol>
+<h2 id="pasos-a-seguir">Pasos a seguir:</h2>
+<ol type="1">
+<li>Transformar todos mis archivos .md en .html: con comando Pandoc.</li>
+<li>Copiar y pegar el contenido html en mi index.html en la parte begin content.</li>
+<li>Modificar en el html algunas líneas. (16,36,84)</li>
+<li>Modificar ruta de imagen.</li>
+<li>Guardar con nombre diferente.</li>
+</ol>
+<h2 id="cómo-acceder-a-mi-página-web">¿Cómo acceder a mi página web?</h2>
+<ul>
+<li>Atajo de teclado: control+o</li>
+<li>Comando pyhton3 -m http.server para ver el puerto y el http de mi página web.</li>
+<li>Github: te sitúas en “Settings” luego seleccionas Pages y te aparece el link en la parte superior.</li>
+</ul>
+    <h1 class="mt-5">Sticky footer with fixed navbar</h1>
+    <p class="lead">Pin a footer to the bottom of the viewport in desktop browsers with this custom HTML and CSS. A fixed navbar has been added with <code class="small">padding-top: 60px;</code> on the <code class="small">main &gt; .container</code>.</p>
+    <p>Back to <a href="../examples/sticky-footer/">the default sticky footer</a> minus the navbar.</p>
+  </div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-light">
+  <div class="container">
+    <span class="text-muted">Place sticky footer content here.</span>
+  </div>
+</footer>
+
+
+    <script src="js/bootstrap.bundle.min.js"></script>
+
+      
+  </body>
+</html>
