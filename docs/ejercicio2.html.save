@@ -5,8 +5,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="En esta página web recojo todas las actividades que he realizado en la asignatura Periodismo de Datos durante el curso 2021/2022">
-    <meta name="author" content="Almudena Romano Cabello">
-    <meta name="generator" content="nano">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Hugo 0.88.1">
     <title>Segunda actividad</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/sticky-footer-navbar/">
@@ -68,11 +68,10 @@
 <li class="nav-item">
               <a class="nav-link" href="metodologia.html">Metodología</a>
     </li>
-<!--Borro el elemento de listado Disabled, porque no lo voy a utilizar-->
-        </ul>
+<!--Borro el elemento de listado Disabled, porque no lo voy a utilizar -->
         <form class="d-flex">
-          <input class="form-control me-2" type="search" placeholder="Buscar" aria-label="Search">
-          <button class="btn btn-outline-success" type="submit">Buscar</button>
+          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success" type="submit">Search</button>
         </form>
       </div>
     </div>
@@ -89,7 +88,7 @@
 <h2 id="infografías-generales">Infografías generales</h2>
 <h3 id="infografía-rescatada-de-internet">Infografía rescatada de VENNGAGE</h3>
 <figure>
-<img src="imagenes/infografiageneral1.png" title="Cómo hacer una infografía en cinco pasos" alt="Cómo hacer una infografía en cinco pasos" width="400"/><figcaption></figcaption> 
+<img src="imagenes/infografiageneral1.png" alt="infografia general" width="400"/><figcaption></figcaption> 
 </figure>
 <ul>
 <li><strong>Elección de los colores</strong>: mezcla una gama de colores morados en una especie de degradado que resulta útil para diferenciar los pasos que menciona. Sin embargo, en los dos primeros pasos no resulta suficiente esta diferencia de color y resulta difícil distinguir cada uno de ellos. Por lo que deduzco que la intención principal de diferenciar no se ha logrado.</li>
@@ -100,7 +99,7 @@
 </ul>
 <h3 id="infografía-rescatada-de-internet-1">Infografía rescatada de Internet</h3>
 <figure>
-<img src="imagenes/infografiageneral2.png" title="¿Cómo ahorrar dinero?" alt="¿Cómo ahorrar dinero?" width="500" /><figcaption></figcaption>
+<img src="imagenes/infografiageneral2.png" alt="" width="500" /><figcaption></figcaption>
 </figure>
 <ul> 
 <li><strong>Elección de los colores</strong>: recurre a diferentes colores en la zona de arriba predomina el color azul y morado. En la zona de abajo hay otros colores como el verde, el naranja, el rosa o el rojo. En realidad los colores de la zona de arriba son más parecidos entre sí que los de abajo, lo cual puede confundir un poco a aquel que visualice la imagen. Por ende, yo recomendaría una gama de colores más parecida en toda la infografía o diferentes colores en la zona de arriba y de abajo. Asimismo el color de la letra, el negro tampoco es muy acertado porque no acaba de proporcionar un equilibrio estético.
@@ -112,7 +111,7 @@
 </ul>
 <h3 id="infografía-tomada-de-una-página-web-cegid">Infografía tomada de una página web: Cegid</h3>
 <figure>
-<img src="imagenes/infografiageneral3.png" title="Luxury Retailing in China" alt="Venta al por menor de lujo" width="400"/><figcaption></figcaption>
+<img src="imagenes/infografiageneral3.png" alt="" width="400"/><figcaption></figcaption>
 </figure>
 <ul>
 <li><strong>Elección de colores</strong>: recurre a colores azules y grises, la elección de estos colores es muy apropiada ya que son colores neutros que solemos relacionar con el equilibrio y la sobriedad.<br />
@@ -126,13 +125,13 @@
 <h2 id="infografías-de-noticias">INFOGRAFÍAS DE NOTICIAS</h2>
 <h3 id="infografía-el-país">Infografía: El País</h3>
 <figure>
-<img src="imagenes/captura1.png" title="Radiografía de la zona arrasada por la lava"alt="Captura de la noticia El País" width="400" /><figcaption>Radiografía de la zona arrasada por la lava y trayectoria prevista</figcaption>
+<img src="imagenes/captura1.png" alt="" width="400" /><figcaption>Radiografía de la zona arrasada por la lava y trayectoria prevista</figcaption>
 </figure>
 <figure>
-<img src="imagenes/captura2.png" alt="Segunda captura de la noticia" width="400"/><figcaption>Radiografía de la zona arrasada por la lava y trayectoria prevista</figcaption>
+<img src="imagenes/captura2.png" alt="" width="400"/><figcaption>Radiografía de la zona arrasada por la lava y trayectoria prevista</figcaption>
 </figure>
 <figure>
-<img src="imagenes/captura3.png" alt="Tercera captura de la noticia" width="400"/><figcaption>Radiografía de la zona arrasada por la lava y trayectoria prevista</figcaption>
+<img src="imagenes/captura3.png" alt="" width="400"/><figcaption>Radiografía de la zona arrasada por la lava y trayectoria prevista</figcaption>
 </figure>
 <ul>
 <li><strong>Elección de los colores</strong>: la infografía respeta el color de fondo de la naturaleza, por eso priman los colores verdes y marrones. Las líneas incorporadas por el medio son rojas y amarillas, color muy relacionado con la lava,así que podría considerarse una buena elección.</li>
@@ -146,7 +145,7 @@
 <p>Como aspecto a comentar en la infografía no se ven todas las líneas ni nombres, como vimos un día en clase. Para poder verla al completo se vuelve necesario insertar el link de la noticia y meter la imagen como captura rescatándola desde la carpeta Imágenes que hay en el repositorio de Github. De todo ello, deduzco que esta infografía resulta difícil de observar ya que es demasiado grande, incluso he tenido que realizar tres capturas de pantalla.</p>
 <h3 id="infografía-el-mundo">Infografía: El Mundo</h3>
 <figure>
-<img src="imagenes/infografianoticia2.jpeg" title="Un espacio aéreo que integre todo tipo de aeronaves"alt="Infografía de noticia El Mundo" width="800" /><figcaption></figcaption>
+<img src="imagenes/infografianoticia2.jpeg" alt="" width="800" /><figcaption></figcaption>
 </figure>
 <ul>
 <li><strong>Elección de los colores</strong>: predomina el color blanco con algunos toques azules en diferentes tonos y grises. Luego aparecen algunos datos en rojo y otros en negro para mostrar su relevancia.</li>
@@ -159,7 +158,7 @@
 </ul>
 <h3 id="infografía-the-guardian">Infografía: The Guardian</h3>
 <figure>
-<img src="imagenes/infografianoticia3.png" title="The SKA: an eye on the makings of the universe" alt="Infografía de noticia The Guardian" width="800"/><figcaption></figcaption>
+<img src="imagenes/infografianoticia3.png" alt="" width="800"/><figcaption></figcaption>
 </figure>
 <ul>
 <li><strong>Elección de los colores</strong>: de nuevo opta por colores grises y azules, muy representativos en las noticias como venimos observando y como comenta Antonio Cairo. Deduzco que es un color con el que el lector logra empatizar y leer bien las infografías pues es bastante neutro.</li>
@@ -176,8 +175,6 @@
 </ol>
   </div>
 </main>
-
-<!--Cambio pie de página -->
 
 <footer class="footer mt-auto py-3 bg-light">
   <div class="container">

@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
+    <meta name="description" content="En esta página web recojo todas las actividades que he realizado en la asignatura Periodismo de Datos durante el curso 2021/2022">
     <meta name="author" content="Almudena Romano">
     <meta name="generator" content="nano">
     <title>Trabajo final de las pruebas de evalucación continua de la  asignatura Periodismo de Datos</title>
@@ -42,6 +42,8 @@
   <!-- Fixed navbar -->
   <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
     <div class="container-fluid">
+<!--Aquí pongo qué quiero que aparezca en la parte superior izquierda
+de mi página web, en mi caso, mi nombre -->
       <a class="navbar-brand" href="#">Almudena Romano Cabello</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -49,6 +51,7 @@
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav me-auto mb-2 mb-md-0">
           <li class="nav-item">
+<!--Cambio mi barra superior, mi menú de inicio para que puedan acceder a cada actividad pinchando en cada uno de ellos -->
             <a class="nav-link active" aria-current="page" href="index.html">Inicio</a>
           </li>
           <li class="nav-item">
@@ -66,15 +69,11 @@
 <li class="nav-item">
               <a class="nav-link" href="metodologia.html">Metodología</a>
    </li>
-
-
-          <li class="nav-item">
-            <a class="nav-link disabled">Disabled</a>
-          </li>
+<!--Borro el elemento de listado Disabled, porque no lo voy a utilizar-->
         </ul>
         <form class="d-flex">
-          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-          <button class="btn btn-outline-success" type="submit">Search</button>
+          <input class="form-control me-2" type="search" placeholder="Buscar" aria-label="Buscar">
+          <button class="btn btn-outline-success" type="submit">Buscar</button>
         </form>
       </div>
     </div>
@@ -84,39 +83,41 @@
 <!-- Begin page content -->
 <main class="flex-shrink-0">
   <div class="container">
-<h1 id="creación-de-esta-página-web">Creación de esta página web</h1>
+<h1 id="creación-de-esta-página-web">Metodología de la página web</h1>
 <p>El objetivo de esta página web consiste en reunir todas las actividades realizadas durante el curso 2020/2021.</p>
-<h2 id="cómo-he-realizado-esta-página-web">¿Cómo he realizado esta página web?</h2>
+<h2 id="cómo-he-realizado-esta-página-web">Requisitos necesarios:</h2>
 <p>Antes de lanzar esta página web es necesario cumplir los siguientes pasos:</p>
 <ol type="1">
-<li><strong>Pandoc</strong>: para poder realizar este ejercicio he tenido que pasar todos los archivos que tenía en formato markdown a html. Para ello, tuve que instalarme Pandoc desde la terminal mediante el comando “sudo apt install”.</li>
-<li><strong>Bootstrap</strong>: en la página de Bootstrap me descargué los ejemplos. Una vez estaban instalados utilicé el comando “unzip” para extraer los que a mi me interesaban que se encontraban en la carpeta assets/dist/. En esta carpeta había otras dos: js y css. La primera de ellas hace referencia al lenguaje java script y la segunda a la hoja de estilo que vamos a utilizar.</li>
-<li><strong>Github carpetas</strong>: cuando ya tenía todo lo que necesitaba (Pandoc, ejemplos de Bootstrap) cree una nueva carpeta en mi repositorio uc3m-periodismo-dato. Para ello, desde la terminal me situé en mi repositorio mediante el comado (cd=change directory) y con el comando (mkdir=make directory) hice la carpeta docs/. Dentro de ella mediante el comando (cp=copy) introduje la carpeta css y js. En esta misma carpeta también copié la carpeta de imágenes que tenía, (cp ../uc3m-periodismo-dato/imagenes docs/.). Esta orden consiste en copiar la carpeta que tenía en mi repositorio a la nueva carpeta creada “/docs”.</li>
-<li><strong>Github, pages</strong>: en el apartado “Settings” de mi repositorio me situé en la opción Pages. Ahí hay una ocpión que te permite establecer dónde se va a contruir tu página web. Por eso, yo elegí como branch la opción main y la carpeta /docs. Una vez elegí las opciones le di a guardar y se generó un link que me permite acceder a mi <a href="https://almuroca.github.io/uc3m-periodismo-dato/">página web</a>.</li>
+<li><strong>Pandoc</strong>: para poder realizar este ejercicio he tenido que pasar todos los archivos que tenía en formato <em>markdown</em> a <em>html</em>. Para ello, tuve que instalarme <em>Pandoc</em> desde la terminal mediante el comando <em>sudo apt install</em>, el comando que utiliza mi sistema operativo (Linux) para instalar paquetes, el resto de sistemas operativos utilizan otros comandos como ("apt cyg install" en Microsoft Windows o "brew install" en Mac OS X).</li>
+<li><strong>Bootstrap</strong>: en la página de <em>Bootstrap</em> me descargué los ejemplos, simplemente tuve que seleccionar en la parte superior el apartado de ejemplos y la opción de <em>Download examples</em>. Una vez estaban instalados utilicé el comando <em>unzip</em> (previamente instalado) para extraer los que a mi me interesaban que se encontraban en la carpeta <em>assets/dist/</em>. En la misma, había otras dos: <em>js y css</em>. La primera de ellas hace referencia al lenguaje <em>java script</em> y la segunda a la hoja de estilo que vamos a utilizar. Asimismo extraje la carpeta <em>sticky footer navbar</em> donde se encontraba el <em>index.hmtl</em> que tomé como referencia para realizar la transformación de <em>markdown a html</em>.</li>
+<li><strong>Github, carpetas</strong>: cuando ya tenía todo lo que necesitaba (<em>Pandoc</em>, ejemplos de <em>Bootstrap</em>) cree una nueva carpeta en mi repositorio uc3m-periodismo-dato. Para ello, desde la terminal me situé en mi repositorio mediante el comado (cd=change directory) y con el comando (mkdir=make directory) hice la carpeta <em>docs/</em>. Dentro de ella mediante el comando (cp=copy) introduje la carpeta <em>css y js</em>. En esta misma carpeta (<em>docs/</em>) también copié la carpeta de imágenes que tenía, (cp ../uc3m-periodismo-dato/imagenes docs/). Esta orden consiste en copiar la carpeta que tenía en mi repositorio a la nueva carpeta creada “/docs”. Esta acción me permitió hacer referencia a estas imágenes en mis archivos <em>HTML</em> ya que se encontraba dentro de docs/. Asimismo, incluí en la carpeta <em>css</em> la carpeta de <em>sticky-footer-navbar.css</em> que permitía jugar con la parte superior de la página web donde yo incluí cada una de mis actividades. En esta carpeta también añadí cada uno de mis ejercicios, ya en formato <em>html</em> (se explicará a continuación,) y añadí una nueva carpeta que recibió el nombre de "src" para introducir todos los csv que había creado con mi <em>Open Refine</em>. De esta forma, en mi carpeta docs/ tenía cuatro carpetas (css, imagenes, js, src) y los ejercicios transformados en <em>html</em> junto a mi index.html y mi metodologia.html</li>
+<li><strong>Github, pages</strong>: en el apartado <em>Settings</em> de mi repositorio me situé en la opción <em>Pages</em>. Ahí hay una ocpión que te permite establecer dónde se va a construir tu página web. Por eso, yo elegí como <em>branch</em>la opción <em>main</em> y la carpeta /docs (desde donde se construirá mi página web). Una vez elegí las opciones le di a guardar y se generó un link que me permite acceder a mi <a href="https://almuroca.github.io/uc3m-periodismo-dato/">página web</a>.</li>
 </ol>
 <h2 id="pasos-a-seguir">Pasos a seguir:</h2>
 <ol type="1">
-<li>Transformar todos mis archivos .md en .html: con comando Pandoc.</li>
-<li>Copiar y pegar el contenido html en mi index.html en la parte begin content.</li>
-<li>Modificar en el html algunas líneas. (16,36,84)</li>
-<li>Modificar ruta de imagen.</li>
-<li>Guardar con nombre diferente.</li>
+<li><strong>Transformar todos mis archivos .md en .html mediante el comando <em>Pandoc</em>.</strong> Lo único que tuve que hacer fue situarme en mi repositorio donde reunía todos mis ejercicios en formato <em>markdown</em>. Como ya he mencionado, lo hice mediante el comando <em>cd</em>, me sitúe en mi repositorio y le dije a mi terminal que transformara a <em>html</em> los archivos que yo le decía. La orden enviada: pandoc primera-actividad-comentario-critico.md</li>
+<li><strong>Copiar y pegar el contenido html en mi index.html en la parte <em>begin content</em>.</strong> Hay dos formas de realizar este paso. La primera de ellas, consiste en dividir el archivo index en tres partes: una cabecera, un cuerpo y un pie. De esta forma, modificas la cabecera y el pie, e introduces en el cuerpo el contenido html de cada una de tus prácticas. A continuación, mediante el comando <em>cat</em> unes todas estas partes. Solo modificas una vez la cabecera y el pie, que será lo que utilizas todo el tiempo y el cuerpo lo vas modificando en función del contenido. Sin embargo, cuando yo realicé este ejercicio no se me ocurrió esta acción por lo que recurrí a otra táctica. Yo desde mi terminal, situada en mi repositorio y en mi carpeta docs, ponía nano (mi editor de texto) index.html, y modificaba el contenido en la parte de begin content. Realmente solo tuve que modificar una vez la cabecera de index donde modifiqué el menú superior y el pie donde puse "Periodismo de Datos, UC3M". Así pues, son dos formas parecidas de llegar al mismo resultado. </li>
+<li><strong>Modificar en el html algunas líneas.</strong>(Los cambios que he realizado aparecen indicados en mi documento hmtl, en el apartado <em>href y script</em>).Si no introducimos estos cambios la página web no tendrá el diseño que queremos. Por eso, tuve que indicarle a mi página web dónde se encontraba el estilo que yo quería usar, es decir, modifiqué las referencias que aparecen de forma automática por las que yo quería.</li>
+<li><strong>Modificar ruta de imagen:</strong> el archivo que copiamos con formato <em>markdown</em> contiene imágenes que hacen referencia a una carpeta determinada porque se encuentran en nuestro repositorio. Sin embargo, cuando las copiamos en html tenemos que modificar la referencia para que muestre las imágenes que nos interesan, es decir, las que se encuentran en nuestra carpeta <em>docs/</em> en otra carpeta que recibe el nombre de "imagenes".</li>
+<li><strong>Guardar.</strong> Cuando realicé todos estos cambios en mi archivo index.html guardé cada actividad con un nombre diferente. De esta forma, se quedaban mi archivo index.html y los que iba creando de forma progresiva. </li>
 </ol>
-<h2 id="cómo-acceder-a-mi-página-web">¿Cómo acceder a mi página web?</h2>
+<h2 id="cómo-acceder-a-mi-página-web">¿Cómo acceder a la página web?</h2>
 <ul>
-<li>Atajo de teclado: control+o</li>
-<li>Comando pyhton3 -m http.server para ver el puerto y el http de mi página web.</li>
-<li>Github: te sitúas en “Settings” luego seleccionas Pages y te aparece el link en la parte superior.</li>
+<li><strong>Atajo de teclado:</strong> control+o, que se utiliza para abrir una <em>URL</em>, un  documento, una imagen desde el ordenador. Para ello, debes situarte en el navegador de internet, presionar las teclas mencionadas y elegir aquello que quieres abrir, en mi caso un archivo <em>html</em>.</li>
+<li><strong>Comando <em>pyhton3 -m http.server</em></strong> para ver el puerto y el http de mi página web. Para ello, me tuve que descargar el comando en mi terminal mediante <em>sudo apt install</em>, que es el comando que utiliza el sistema operativo Linux, es decir, el mío. Una vez lanzas el comando solo tienes que copiar el puerto que te indica, además resulta muy útil para ver si tienes que modificar algún aspecto de tu página web.</li>
+<li><strong>Github:</strong> te sitúas en <em>Settings</em> luego seleccionas <em>Pages</em> y te aparece el link en la parte superior, mediante el cual puedes acceder directamente.</li>
 </ul>
-    <h1 class="mt-5">Sticky footer with fixed navbar</h1>
-    <p class="lead">Pin a footer to the bottom of the viewport in desktop browsers with this custom HTML and CSS. A fixed navbar has been added with <code class="small">padding-top: 60px;</code> on the <code class="small">main &gt; .container</code>.</p>
-    <p>Back to <a href="../examples/sticky-footer/">the default sticky footer</a> minus the navbar.</p>
+<h3 id="Paso-final">Paso final</h2>
+<p>Cuando terminé todo este proceso, tuve que comprimir todo mi repositorio, "uc3m-periodismo-dato" en una carpeta <em>zip</em>. Para ello, mediante el comando zip (previamente instalado con sudo apt install) desde fuera de la carpeta puse "zip -r cursocompleto.zip docs/." Esto quiere decir que quería que mi carpeta se llamara "Curso Completo" y la carpeta que quería zipear era  docs. A continuación, copie ese .zip en mi carpeta <em>docs</em>, lo añadí a mi repositorio <em>git</em> y lo subí a <em>Github</em> mediante las opciones ya mencionadas (<em>git add, git commit -m, git push origin main</em>).</p>
+
   </div>
 </main>
 
+<!-- Cambio pie de página-->
+
 <footer class="footer mt-auto py-3 bg-light">
   <div class="container">
-    <span class="text-muted">Place sticky footer content here.</span>
+    <span class="text-muted">Periodismo de Datos, UC3M</span>
   </div>
 </footer>
 

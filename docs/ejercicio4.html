@@ -1,18 +1,19 @@
 <!doctype html>
-<html lang="en" class="h-100">
-  <head>
+<html lang="es" class="h-100">
+<!--Cambio inglés por español-->  
+<head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
-    <meta name="generator" content="Hugo 0.88.1">
+    <meta name="description" content="En esta página web recojo todas las actividades que he realizado en la asignatura Periodismo de Datos durante el curso 2021/2022">
+    <meta name="author" content="Almudena Romano Cabello">
+    <meta name="generator" content="nano">
     <title>Cuarta actividad</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/sticky-footer-navbar/">
 
     
 
-    <!-- Bootstrap core CSS -->
+    <!-- Bootstrap core CSS, la hoja de estilo básica de bootstrap, la he guardado en la carpeta css -->
 <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <style>
@@ -41,12 +42,15 @@
   <!-- Fixed navbar -->
   <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
     <div class="container-fluid">
+<!--Aquí pongo qué quiero que aparezca en la parte superior izquierda
+ de mi página web, en mi caso, mi nombre -->
       <a class="navbar-brand" href="#">Almudena Romano Cabello</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav me-auto mb-2 mb-md-0">
+<!--Cambio mi barra superior, mi menú de inicio para que puedan acceder a cada actividad pinchando en cada uno de ellos -->
           <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="index.html">Inicio</a>
           </li>
@@ -65,14 +69,11 @@
 <li class="nav-item">
               <a class="nav-link" href="metodologia.html">Metodología</a>
     </li>
-
-          <li class="nav-item">
-            <a class="nav-link disabled">Disabled</a>
-          </li>
+<!--Borro el elemento de listado Disabled, porque no lo voy a utilizar -->
         </ul>
         <form class="d-flex">
-          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-          <button class="btn btn-outline-success" type="submit">Search</button>
+          <input class="form-control me-2" type="search" placeholder="Buscar" aria-label="Search">
+          <button class="btn btn-outline-success" type="submit">Buscar</button>
         </form>
       </div>
     </div>
@@ -86,41 +87,41 @@
 
 <h1 id="cuarta-actividad-tu-historia-de-periodismo-de-datos">Cuarto ejercicio: tu historia de periodismo de datos</h1>
 <h2 id="datos-seleccionados">Datos seleccionados</h2>
-<p>He escogido un archivo csv, es decir, de valores separados por coma del <a href="https://www.ine.es/jaxiT3/Tabla.htm?t=10005&amp;L=0">Instituto Nacional de Estadística (INE)</a> sobre la pobreza y sus componentes en las comunidades autónomas de España durante los últimos trece años. El documento, aborda cuestiones como el riesgo de exclusión social o de pobreza, la tasa de carencia material severa y la de hogares con baja intensidad en el trabajo.</p>
-<p>Me parece un tema cuanto menos relevante e interesante para conocer las diferencias económicas que existen en España. Por todo ello, los gráficos realizados intentan mostrar de una manera visual la variedad económica que se produce en el país. Para realizar estos gráficos he utilizado OpenRefine y Datawrapper.</p>
+<p>He escogido un archivo csv, es decir, de valores separados por comas del <a href="https://www.ine.es/jaxiT3/Tabla.htm?t=10005&amp;L=0">Instituto Nacional de Estadística (INE)</a> sobre la pobreza y sus componentes en las comunidades autónomas de España durante los últimos trece años. El documento, aborda cuestiones como el riesgo de exclusión social o de pobreza, la tasa de carencia material severa y la de hogares con baja intensidad en el trabajo.</p>
+<p>Me parece un tema cuanto menos relevante e interesante para conocer las diferencias económicas que existen en España. Por todo ello, los gráficos realizados intentan mostrar de una manera visual la variedad económica que se produce en el país. Para realizar estos gráficos he utilizado <em>OpenRefine</em> y <em>Datawrapper</em>.</p>
 <h2 id="gráficos-realizados">Gráficos realizados</h2>
-<h3 id="tasa-de-riesgo-de-pobreza-o-exclusión-social.">Tasa de riesgo de pobreza o exclusión social.</h3>
+<h3 id="tasa-de-riesgo-de-pobreza-o-exclusión-social.">Tasa de riesgo de pobreza o exclusión social</h3>
 <figure>
-<img src="imagenes/tasa-de-riesgo-de-pobreza-o-exclusi-n-social-.png" alt="" width="800"/><figcaption>Tasa de riesgo de pobreza o exclusión social</figcaption>
+<img src="imagenes/tasa-de-riesgo-de-pobreza-o-exclusi-n-social-.png" title="Tasa de riesgo de pobreza o exclusión social"alt="Gráfico de la tasa de riesgo de pobreza o exclusión social en España" width="800"/><figcaption></figcaption>
 </figure>
 <h4 id="análisis">Análisis</h4>
 <p>He realizado este gráfico de dispersión porque me parece la mejor manera de mostrar los cuatro componentes que recoge el csv. Este gráfico se utiliza para relacionar dos variables, que en este caso serían la variable “X” que muestra la evolución temporal desde 2008 hasta 2020 y la variable “Y” que refleja la tasa de pobreza.</p>
 <p>Los elementos que aparecen en el gráfico aparecen representados con colores diferentes:</p>
 <ul>
-<li>Carencia material severa: en color gris ya que alude a bienes materiales.</li>
-<li>Riesgo de pobreza: aparece en color rojo ya que se relaciona con el peligro o advertencia como vemos en señales de tráfico por ejemplo.</li>
-<li>Riesgo de exclusión social: aparece en color negro puesto que se relaciona con algo negativo, algo oscuro o trágico.</li>
-<li>Vivir en hogares con baja intensidad en el trabajo: he puesto un color azul porque este color recuerda al cumplimiento de la ley que recoge que todos tenemos derecho a una vivienda justa.</li>
+<li><strong>Carencia material severa</strong>: en color gris ya que alude a bienes materiales.</li>
+<li><strong>Riesgo de pobreza</strong>: aparece en color rojo ya que se relaciona con el peligro o advertencia como vemos en señales de tráfico por ejemplo.</li>
+<li><strong>Riesgo de exclusión social</strong>: aparece en color negro puesto que se relaciona con algo negativo, algo oscuro o trágico.</li>
+<li><strong>Vivir en hogares con baja intensidad en el trabajo</strong>: he puesto un color azul porque este color recuerda al cumplimiento de la ley que recoge que todos tenemos derecho a una vivienda justa.</li>
 </ul>
 <p>Por todo ello, el gráfico puede resultar útil para deducir que la tasa más baja es la de “carencia de material severa” y la más elevada es la tasa de “riesgo de pobreza o exclusión social”. Al mismo tiempo se aprecia que todas ellas contaron un pico ascendente en el año 2014.</p>
 <p>La tipografía que utilizo es muy comprensible, igual que el título escogido. Al mismo tiempo, he optado por poner un rango muy cercano a la tasa que aparece en el CSV y los números van de cinco en cinco por lo que se aprecia mejor la realidad expuesta.</p>
 <h4 id="cómo-he-realizado-esta-gráfica">¿Cómo he realizado esta gráfica?</h4>
 <p><strong>OpenRefine</strong></p>
-<p>Para empezar, busqué el tema que quería abordar en el INE y luego descargué el archivo como un .csv (valores separados por comas). A continuación, lo exporté en el OpenRefine y por medio de la faceta de texto en la primera columna “Comunidades y Ciudades Autónomas” seleccioné la opción de “Total Nacional” dejando a parte el resto de Comunidades Autónomas, porque lo importante es conocer la evolución anual de estos cuatro componentes a nivel nacional.</p>
+<p>Para empezar, busqué el tema que quería abordar en el INE y luego descargué el archivo como un .csv (valores separados por comas). A continuación, lo exporté en el <em>OpenRefine</em> y por medio de la faceta de texto en la primera columna “Comunidades y Ciudades Autónomas” seleccioné la opción de “Total Nacional” dejando a parte el resto de Comunidades Autónomas, porque lo importante es conocer la evolución anual de estos cuatro componentes a nivel nacional.</p>
 <figure>
 <img src="imagenes/Capturadepantalla1.png" alt="" /><figcaption>Faceta de texto</figcaption>
 </figure>
-<p>A continuación, mediante la opción de transformas celdas, modifiqué los datos de la segunda columna, “Total”, en números. El OpenRefine no reconoce las comas, así que tuve que sustituirlas por puntos. Para ello, utilicé la transformación personalizada e introduje la expresión “value.replace(”,“,”."). Una vez realizado este paso, pude transformarlo en números mediante la opción transformaciones comunes.</p>
+<p>A continuación, mediante la opción de transformas celdas, modifiqué los datos de la segunda columna, “Total”, en números. El OpenRefine no reconoce las comas, así que tuve que sustituirlas por puntos. Para ello, utilicé la transformación personalizada e introduje la expresión <em>value.replace(”,“,”.")</em>. Una vez realizado este paso, pude transformarlo en números mediante la opción transformaciones comunes.</p>
 <figure>
 <img src="imagenes/Capturadepantalla2.png" alt="" /><figcaption>Transformar en número</figcaption>
 </figure>
 <p><strong>Datawrapper</strong></p>
-<p>Cuando tenía todos los datos que necesitaba los exporté en Datawrapper. En esta herramienta de visualización, escogí la opción de Gráfico de Dispersión y en ese mismo paso de la “Visualizar” hay un apartado llamado “Mejorar” donde elegí la customización personalizada que me permitió proporcionar los colores que quise a la gráfica. En visualizar también recurrí a la opción de “Anotar” donde incluí la leyenda del gráfico que resulta de gran utilidad para el lector, ya que aclara cuestiones de autoría, fuente y otras anotaciones que quieras poner. Por último, en el subartado “Diseño” escogí la opción de “Español” para que esta leyenda apareciera en este idioma.</p>
+<p>Cuando tenía todos los datos que necesitaba los exporté en <em>Datawrapper</em>. En esta herramienta de visualización, escogí la opción de Gráfico de Dispersión y en ese mismo paso de la “Visualizar” hay un apartado llamado “Mejorar” donde elegí la customización personalizada que me permitió proporcionar los colores que quise a la gráfica. En visualizar también recurrí a la opción de “Anotar” donde incluí la leyenda del gráfico que resulta de gran utilidad para el lector, ya que aclara cuestiones de autoría, fuente y otras anotaciones que quieras poner. Por último, en el subartado “Diseño” escogí la opción de “Español” para que esta leyenda apareciera en este idioma.</p>
 <h3 id="tasa-de-riesgo-de-pobreza-en-españa">Tasa de riesgo de pobreza en España</h3>
 <h4 id="análisis-1">Análisis</h4>
 <p>Las cuatro gráficas que muestro a continuación se centran en uno de los apartados mencionados anteriormente: el riesgo de pobreza.</p>
 <figure>
-<img src="imagenes/tasa-de-riesgo-de-pobreza-en-españa.png" alt="" width="800"/><figcaption>Tasa de riesgo de pobreza en España</figcaption>
+<img src="imagenes/tasa-de-riesgo-de-pobreza-en-españa.png" title="Tasa de riesgo de pobreza en España"alt="Media de la tasa de pobreza de España desde 2008 hasta 2020" width="800"/><figcaption></figcaption>
 </figure>
 <p>La siguente gráfica es de flechas y resulta muy útil para ver que la que menor tasa de pobreza registra es la Comunidad Foral de Navarra, mientras que la que presenta una mayor tasa es Ceuta. Se convierte en un gráfico muy visual y cualquier periódico podría incluirlo en sus noticias pues de un golpe de vista se refleja la diferencia que existe en España.</p>
 <p>Aparecen en orden de menor a mayor, ya que proporciona un mayor entendimiento. Resulta más visual y práctico mostrar una grada descendente y poner en primera posición la tasa más pequeña. No obstante, depende de dónde quiera poner el foco la noticia, si quiere centrarse en la Comunidad con menor tasa de pobreza lo ideal es colocarla el primera posición. Si por el contrario prefiere hablar de la tasa más elevada, sería mejor poner Ceuta en la parte superior, es decir, invertir el orden.</p>
@@ -131,7 +132,7 @@
 <p>La gráfica presentada requiere un mayor nivel de limpieza que la anterior. Para realizarla he utilizado facetas de texto y transformaciones personalizadas.</p>
 <p>En primer lugar, una vez exporté el archivo csv realicé una faceta de texto en la tercera columna “Tasa de riesgo de pobreza o exclusión social (y sus componentes) y seleccioné”En riesgo de pobreza".</p>
 <p>A continuación, me situé en la columna de Comunidades y Ciudades Autónomas y escogí la opción de editar celdas, vaciar hacia abajo. Cuando hice esto, todas las Comunidades Autónomas que aparecían en cada uno de los años (2008, 2009, 2010…) excepto una, desaparecieron y dejaron el resto de celdas en blanco. Es decir, en esta columna solo aparecía una vez el nombre de la comunidad autónoma y al lado cada uno de los totales. Es un ejercicio necesario porque al realizar el sumatorio se pone el mismo resultado en todas las celdas que se corresponden a dicha comunidad. Es decir, en la columna de “Comunidades” aparece muchas veces la misma comunidad repetida pero con datos diferentes y con este proceso lo que hago es poner el sumatorio de estos datos en una misma celda.</p>
-<p>El siguiente paso consiste en realizar el sumatorio para obtener posteriormente la media. El OpenRefine, como ya he mencionado, no reconoce las comas, pero ya había transformado las cifras en números (ver en gráfico anterior). Para poder sumar todos los valores, reordené las columnas dejando en primera posición la de “Comunidades” y a su lado la columna sobre la que se realizaría el Sumatorio. Me sitúe sobre la columna del Total y agregué una columna basada en la anterior. Cuando la hice tuve que introducir un título para la misma donde puse Media y la siguiente fórmula: row.record.cells[“Total”].value.sum(). De esta forma, obtuve el sumatorio pero lo que a mí me interesaba era la media de esos trece años. Para conseguirla tuve que editar cada una de las celdas dividiendo desde la calculadora las cifras. Por último, desplacé la columna donde aparece la media al lado de las Comunidades Autónomas para que en el Datawrapper no me aparezca ningún error. (Hasta ese momento tenía la columna de comunidades, la del total transformada en números y la de la media).</p>
+<p>El siguiente paso consiste en realizar el sumatorio para obtener posteriormente la media. El <em>OpenRefine</em>, como ya he mencionado, no reconoce las comas, pero ya había transformado las cifras en números (ver en gráfico anterior). Para poder sumar todos los valores, reordené las columnas dejando en primera posición la de “Comunidades” y a su lado la columna sobre la que se realizaría el Sumatorio. Me sitúe sobre la columna del Total y agregué una columna basada en la anterior. Cuando la hice tuve que introducir un título para la misma donde puse Media y la siguiente fórmula: <em>row.record.cells[“Total”].value.sum()</em>. De esta forma, obtuve el sumatorio pero lo que a mí me interesaba era la media de esos trece años. Para conseguirla tuve que editar cada una de las celdas dividiendo desde la calculadora las cifras. Por último, desplacé la columna donde aparece la media al lado de las Comunidades Autónomas para que en el <em>Datawrapper</em> no me aparezca ningún error. (Hasta ese momento tenía la columna de comunidades, la del total transformada en números y la de la media).</p>
 <p>Así es como quedaba la tabla limpia.</p>
 <figure>
 <img src="imagenes/Capturadepantalla3.png" alt="" /><figcaption>Tabla limpia</figcaption>
@@ -140,7 +141,7 @@
 <p>Inserté la tabla limpia en el Datawrapper y elegí el gráfico de flechas en la tercera fase de “Visualizar”. En este mismo paso, customicé el color y elegí el orden. También puse una pequeña leyenda antes de descargarla en el paso de visualizar. Por último, completé el último paso de publicar e integrar y la descargué en mi ordenador y desde la terminal la incluí en mi carpeta imágenes de mi Github.</p>
 <h3 id="tasa-de-riesgo-de-pobreza-en-comunidad-foral-de-navarra">Tasa de riesgo de pobreza en Comunidad Foral de Navarra</h3>
 <figure>
-<img src="imagenes/tasa-de-riesgo-de-pobreza-en-comunidad-foral-de-navarra.png" alt="" width="800"/><figcaption></figcaption>
+<img src="imagenes/tasa-de-riesgo-de-pobreza-en-comunidad-foral-de-navarra.png" title="Tasa de riesgo de pobreza en Navarra"alt="Evolución de la pobreza en Navarra desde 2008 hasta 2020" width="800"/><figcaption></figcaption>
 </figure>
 <h4 id="análisis-2">Análisis</h4>
 <p>Como se aprecia en el gráfico anterior Navarra es la Comunidad que menor tasa de pobreza presenta. Es una gráfica muy sencilla de barras que sirve para mostrar la evolución de la tasa durante los últimos trece años. He dejado los porcentajes porque ayudan al lector a ver de foma directa las tasas teniendo en cuenta los decimales.</p>
@@ -149,21 +150,21 @@
 <p><strong>OpenRefine</strong></p>
 <p>Como ya he mencionado, es una gráfica muy sencilla, lo único que he tenido que hacer es jugar con las facetas de texto y elegir las que me interesaban. En este caso solo necesitaba dos datos: Comunidad Foral de Navarra conseguida por una faceta de texto en la columna “Comunidades” y la tasa de riesgo de pobreza que se encontraba en la columna “Tasa de riesgo de pobreza o exclusión social (y sus componentes)”. Estas facetas me permiten ver sólo los datos que me interesan y aquellos con los que voy a “jugar”. Además si tengo la faceta seleccionada al exportar solo me cogerá estos datos.</p>
 <p><strong>Datawrapper</strong></p>
-<p>Cuando tenía los datos seleccionados los exporté mediante la opción exportar valor delimitado por comas. A continuación, introduje los datos en el Datawrapper, verifiqué y describí quitando las columnas que no me interesaban. En la tercera fase de “Visualizar” escogí la opción de Gráfico de columnas y con la posibilidad de “Mejorar” escogí el color que quise y dejé el porcentaje fijo. En esta misma fase introduje el título y la leyenda. Por último, en el cuarto paso “Publicar e integrar” descargué mi infografía con formato PNG.</p>
-<p><strong>Github y terminal:</strong></p>
-<p>Una vez, tuve mi gráfica, igual que con el resto, las subí a mi carpeta “imagenes” que tengo en mi repositorio en Github y la añadí en mi editor de texto nano.</p>
+<p>Cuando tenía los datos seleccionados los exporté mediante la opción exportar valor delimitado por comas. A continuación, introduje los datos en el <em>Datawrapper</em>, verifiqué y describí quitando las columnas que no me interesaban. En la tercera fase de “Visualizar” escogí la opción de Gráfico de columnas y con la posibilidad de “Mejorar” escogí el color que quise y dejé el porcentaje fijo. En esta misma fase introduje el título y la leyenda. Por último, en el cuarto paso “Publicar e integrar” descargué mi infografía con formato <em>PNG</em>.</p>
+<p><strong>Github y terminal</strong></p>
+<p>Una vez, tuve mi gráfica, igual que con el resto, las subí a mi carpeta “imagenes” que tengo en mi repositorio en <em>Github</em> y la añadí en mi editor de texto nano.</p>
 <h3 id="tasa-de-riesgo-de-pobreza-en-ceuta">Tasa de riesgo de pobreza en Ceuta</h3>
 <figure>
-<img src="imagenes/tasa-de-riesgo-de-pobreza-en-ceuta.png" alt="" width="800"/><figcaption></figcaption>
+<img src="imagenes/tasa-de-riesgo-de-pobreza-en-ceuta.png" title="Tasa de riesgo de pobreza en Ceuta"alt="Evolución de la tasa de pobreza en Ceuta desde 2008 hasta 2020" width="800"/><figcaption></figcaption>
 </figure>
 <h4 id="análisis-3">Análisis</h4>
 <p>Esta gráfica es igual que la anterior así que no necesita mucha explicación, la única diferencia son los datos escogidos. En este caso seleccioné los referentes a Ceuta, la comunidad con mayor tasa de riesgo de pobreza. En este gráfico puse un color negro por su bandera y opté por este título porque era preciso y explícito.</p>
 <h4 id="cómo-he-realizado-esta-gráfica-3">¿Cómo he realizado esta gráfica?</h4>
-<p>Limpié los datos mediante facetas de texto, en las mismas columnas que he citado en la anterior gráfica. Sin embargo, en la columna Comunidades seleccioné Ceuta. Al mismo tiempo, en <strong>Datawrapper</strong> escogí otro color en la fase de visualización.</p>
+<p>Limpié los datos mediante facetas de texto, en las mismas columnas que he citado en la anterior gráfica. Sin embargo, en la columna Comunidades seleccioné Ceuta. Al mismo tiempo, en <em>Datawrapper</em> escogí otro color en la fase de visualización.</p>
 <p>El resto de pasos son iguales que en la gráfica de la Comunidad Foral de Navarra.</p>
 <h3 id="comparativa-tasa-de-riesgo-de-pobreza-en-navarra-y-ceuta">Comparativa tasa de riesgo de pobreza en Navarra y Ceuta</h3>
 <figure>
-<img src="imagenes/comparacion.png" alt="" width="800"/><figcaption></figcaption>
+<img src="imagenes/comparacion.png" title="Comparación tasa de riesgo de pobreza en Ceuta y Navarra"alt="Comparativa de la tasa de pobreza en la comunidad más rica y la más pobre" width="800"/><figcaption></figcaption>
 </figure>
 <h4 id="análisis-4">Análisis</h4>
 <p>He considerado oportuno realizar esta gráfica para mostrar de forma visual la diferencia que existe entre la comunidad con mayor riesgo de pobreza y la que menos tiene. He optado por una gráfica de área porque muestra el total acumulado de cada una de ellas y lo lejos que están una de la otra.</p>
@@ -171,28 +172,41 @@
 <h4 id="cómo-he-realizado-este-gráfico">¿Cómo he realizado este gráfico?</h4>
 <p><strong>OpenRefine</strong></p>
 <p>Mediante facetas de texto escogí los datos que me interesaban: Comunidad Foral de Navarra y Ceuta de la columna de “Comunidades” y riesgo de pobreza de la columna "Riesgo de pobreza y exclusión (y sus componentes).</p>
-<p>A continuación, reordené las columnas dejando en primera posición el período que abarca del 2008 al 2020. (Reordenar los datos me permite colocar las columnas como me interesan en relación al gráfico que quiero realizar en el Datawrapper). Luego añadí columna basada en el “total” que titulé “Comunidad Foral de Navarra” y mendiante la opción de value.replace sustituí el nombre de la comunidad por espacios en blanco. Esto lo hice para tener una columna que reuniera solo los datos de Navarra. Una vez tuve una columna en blanco titulada Comunidad Foral de Navarra puse la tasa a mano en las trece celdas. Lo mismo hice con Ceuta, añadí una columna basada en la anterior que titulé Ceuta y la dejé en blanco para introducir a mano el total de dicha comunidad.</p>
+<p>A continuación, reordené las columnas dejando en primera posición el período que abarca del 2008 al 2020. (Reordenar los datos me permite colocar las columnas como me interesan en relación al gráfico que quiero realizar en el <em>Datawrapper</em>). Luego añadí columna basada en el “total” que titulé “Comunidad Foral de Navarra” y mendiante la opción de value.replace sustituí el nombre de la comunidad por espacios en blanco. Esto lo hice para tener una columna que reuniera solo los datos de Navarra. Una vez tuve una columna en blanco titulada Comunidad Foral de Navarra puse la tasa a mano en las trece celdas. Lo mismo hice con Ceuta, añadí una columna basada en la anterior que titulé Ceuta y la dejé en blanco para introducir a mano el total de dicha comunidad.</p>
 <p><img src="imagenes/Capturadepantallas4.png" alt="Captura nombre" /> <img src="imagenes/Capturadepantallas5.png" alt="Captura añadir columna" /></p>
 <p>Por último, eliminé todas las filas que no aportaban la información que quería puesto que repetían información y reorganicé los datos: Período, Comunidad Foral de Navarra y Ceuta.</p>
 <figure>
 <img src="imagenes/Capturadepantallas6.png" alt="" /><figcaption>Limpieza</figcaption>
 </figure>
 <p><strong>Datawrapper</strong></p>
-<p>Inserté el CSV que había descargado y escogí la opción gráfico de área. En la fase de visualizar, en el subapartado “Mejorar” escogí los colores, los valores que quería mostrar del eje vertical y las cuadrículas que quería ocultar del ejer horizontal. Luego anoté la información que me interesaba y la descargué como PNG.</p>
+<p>Inserté el CSV que había descargado y escogí la opción gráfico de área. En la fase de visualizar, en el subapartado “Mejorar” escogí los colores, los valores que quería mostrar del eje vertical y las cuadrículas que quería ocultar del ejer horizontal. Luego anoté la información que me interesaba y la descargué como <em>PNG</em>.</p>
 <p><strong>Github</strong></p>
-<p>Incluí la explicación en nano, añadiendo las imágenes que había subido desde la terminal a mi carpeta “imagenes” de mi repositorio uc3m-periodismo-de-dato y publiqué todo mediante el git add, git commit -m, git push origin main.</p>
+<p>Incluí la explicación en nano, añadiendo las imágenes que había subido desde la terminal a mi carpeta “imagenes” de mi repositorio uc3m-periodismo-de-dato y publiqué todo mediante el <em>git add, git commit -m, git push origin main</em>.</p>
 <h2 id="por-qué-todos-estos-gráficos">¿Por qué todos estos gráficos?</h2>
 <p>He realizado todos y cada uno de estos gráficos porque tenía la idea de realizar una noticia a partir de ellos. Por eso, si quería hacer un artículo sobre la tasa de pobreza y exclusión en España me parecía importante presentar cuál es el componente más característico, en este caso la tasa de riesgo de pobreza o exclusión social (como se ve en el gráfico 1). Por otro lado, también me consideraba interesante estudiar cada uno de los componentes. Yo por ejemplo, me centré en el apartado de la pobreza y comparé todas las comunidades y luego la que presentaba una tasa más alta y la que tenía una más baja. Lo mismo se podía hacer con el resto de puntos (vivienda, carencia material, riesgo de exclusión).</p>
 </ol>
-    <h1 class="mt-5">Sticky footer with fixed navbar</h1>
-    <p class="lead">Pin a footer to the bottom of the viewport in desktop browsers with this custom HTML and CSS. A fixed navbar has been added with <code class="small">padding-top: 60px;</code> on the <code class="small">main &gt; .container</code>.</p>
-    <p>Back to <a href="css/sticky-footer/">the default sticky footer</a> minus the navbar.</p>
-  </div>
+<h3 id="enlaces-interactivos">Enlaces interactivos markdown</h3>
+<p>Por último inserto los enlaces interactivos que facilita <em>Datawrapper</em> para la sintaxis markdown. Se encuentran en el último paso de "Publicar e integrar".
+<p><a href="https://datawrapper.dwcdn.net/z6eKV/1/">Tasa de riesgo de pobreza o exclusión social en España</a></p>
+<p><a href="https://datawrapper.dwcdn.net/Z7mbz/1/">Tasa de riesgo de pobreza en España</a></p>
+<p><a href="https://datawrapper.dwcdn.net/Di9hv/2/">Tasa de riesgo de pobreza en Comunidad Foral de Navarra</a></p>
+<p><a href="https://datawrapper.dwcdn.net/ZpeB1/1/">Tasa de riesgo de pobreza en Ceuta</a></p>
+<p><a href="https://datawrapper.dwcdn.net/KwA48/1/">Comparativa Navarra y Ceuta</a></p>
+<h4 id="enlaces-interactivos">Enlaces interactivos html</h4>
+<p> Este paso, también se encuentra en el cuarto apartado de "Publicar e integrar" y me permite ver los gráficos de forma interactiva sin la necesidad de salir de la página web.</p>
+<iframe title="Tasa de riesgo de pobreza o exclusión social" aria-label="Diagrama de dispersión" id="datawrapper-chart-z6eKV" src="https://datawrapper.dwcdn.net/z6eKV/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
+<iframe title="Tasa de riesgo de pobreza en España " aria-label="Gráfica de flechas" id="datawrapper-chart-Z7mbz" src="https://datawrapper.dwcdn.net/Z7mbz/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="438"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
+<iframe title="Tasa de riesgo de pobreza en Comunidad Foral de Navarra" aria-label="Gráfico de columnas" id="datawrapper-chart-Di9hv" src="https://datawrapper.dwcdn.net/Di9hv/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
+<iframe title="Tasa de riesgo de pobreza en Ceuta" aria-label="Gráfico de columnas" id="datawrapper-chart-ZpeB1" src="https://datawrapper.dwcdn.net/ZpeB1/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
+<iframe title="Tasa de riesgo de pobreza en Ceuta" aria-label="Gráfico de columnas" id="datawrapper-chart-ZpeB1" src="https://datawrapper.dwcdn.net/ZpeB1/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();</script>
+ </div>
 </main>
+
+<!-- Cambio pie de página -->
 
 <footer class="footer mt-auto py-3 bg-light">
   <div class="container">
-    <span class="text-muted">Place sticky footer content here.</span>
+    <span class="text-muted">Periodismo de Datos, UC3M.</span>
   </div>
 </footer>
 
@@ -202,3 +216,4 @@
       
   </body>
 </html>
+

@@ -71,8 +71,8 @@
 <!--Borro el elemento de listado Disabled, porque no lo voy a utilizar -->
         </ul>
         <form class="d-flex">
-          <input class="form-control me-2" type="buscar" placeholder="Buscar" aria-label="Search">
-          <button class="btn btn-outline-success" type="submit">Buscar</button>
+          <input class="form-control me-2" type="search" placeholderSearch" aria-label="Search">
+          <button class="btn btn-outline-success" type="submit">Search</button>
         </form>
       </div>
     </div>
@@ -140,8 +140,6 @@
 </ol>
   </div>
 </main>
-
-<!--Cambio pie de página -->
 
 <footer class="footer mt-auto py-3 bg-light">
   <div class="container">

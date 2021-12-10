@@ -1,18 +1,19 @@
 <!doctype html>
-<html lang="en" class="h-100">
-  <head>
+<html lang="es" class="h-100">
+<!-- Cambio de inglés a español -->  
+<head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
-    <meta name="generator" content="Hugo 0.88.1">
+    <meta name="description" content="En esta página web recojo todas las actividades que he realizado en la asignatura Periodismo de Datos durante el curso 2021/2022">
+    <meta name="author" content="Almudena Romano Cabello">
+    <meta name="generator" content="nano">
     <title>Tercera actividad</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/sticky-footer-navbar/">
 
     
 
-    <!-- Bootstrap core CSS -->
+    <!-- Bootstrap core CSS, la hoja de estilo básica de bootstrap, la he guardado en la carpeta css -->
 <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <style>
@@ -41,12 +42,15 @@
   <!-- Fixed navbar -->
   <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
     <div class="container-fluid">
+<!--Aquí pongo qué quiero que aparezca en la parte superior izquierda
+de mi página web, en mi caso, mi nombre -->
       <a class="navbar-brand" href="#">Almudena Romano Cabello</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav me-auto mb-2 mb-md-0">
+<!--Cambio mi barra superior, mi menú de inicio para que puedan acceder a cada actividad pinchando en cada uno de ellos -->
           <li class="nav-item">
                <a class="nav-link active" aria-current="page" href="index.html">Inicio</a>
             </li>
@@ -66,15 +70,12 @@
 <li class="nav-item">
               <a class="nav-link" href="metodologia.html">Metodología</a>
     </li>
-
-          </li>
-          <li class="nav-item">
-            <a class="nav-link disabled">Disabled</a>
+<!--Borro el elemento de listado Disabled, porque no lo voy a utilizar -->
           </li>
         </ul>
         <form class="d-flex">
-          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-          <button class="btn btn-outline-success" type="submit">Search</button>
+          <input class="form-control me-2" type="search" placeholder="Buscar" aria-label="Search">
+          <button class="btn btn-outline-success" type="submit">Buscar</button>
         </form>
       </div>
     </div>
@@ -85,42 +86,46 @@
 <main class="Tercera actividad gráfico con Datawrapper">
 <div class="container">
 <h1 id="tercera-actividad-gráfico-con-datawrapper">Tercer ejercicio: gráfico con Datawrapper</h1>
-<img src="imagenes/felizmartes-en-twitter-junio-de-2021.png" alt="" width="800" /><figcaption></figcaption>
+<img src="imagenes/felizmartes-en-twitter-junio-de-2021.png" title="Gráfico de barras de la evolución del hastag de FelizMartes en junio de 2021" alt="Gráfico realizado con OpenRefine y Datawrapper" width="800" /><figcaption></figcaption>
 </figure>
-<h2 id="por-qué-un-gráfico-de-barras">¿Por qué un gráfico de barras?</h2>
-<p>El objetivo de este trabajo consiste en realizar un análisis del desarrollo de #FelizMartes durante el mes de junio de 2020 a partir del Proyecto Tresca. Por eso, el gráfico más apropiado para reflejar dicha evolución es uno de barras, ya que refleja de forma más visual cuan utilizado es este hastag a lo largo del mes.</p>
-<p>Como se puede apreciar solo aparecerán datos en los martes del mes de junio. Sin embargo, los miércoles también recogen este Hastag, aspecto cuanto menos curioso. Quizás se debe a la diferencia horaria que existe a nivel mundial.</p>
-<p>Opté por estudiar la evolución del uso de este <em>hastag</em> sobre el Martes porque existen estudios que confirman que es el peor día de la semana. Al mismo tiempo elegí el mes de junio porque #FelizMartes se convirtió en el <em>hastag</em> más utilizado durante este mes.</p>
+<h2 id="por-qué-un-gráfico-de-barras">Introducción</h2>
+<p>El objetivo de este trabajo consiste en realizar un análisis del desarrollo de #FelizMartes durante el mes de junio de 2020 a partir de los datos aportados por el Proyecto Tresca. Estos datos provienen de la recolección de tendencias de <em>Twitter</em> desde marzo de 2020 hasta julio del 2021. Por eso, un posible gráfico podría ser el de barras ya que permite reflejar dicha evolución y muestra de forma más visual cuán utilizado es este <em>hastag</em> a lo largo del mes.</p>
+<p>Como se puede apreciar solo aparecerán datos en los martes del mes de junio. Sin embargo, los miércoles también recogen este <em>Hastag</em>, aspecto cuanto menos curioso. Quizás se debe a la diferencia horaria que existe a nivel mundial.</p>
+<p>Opté por estudiar la evolución del uso de este <em>hastag</em> sobre el Martes porque la Escuela de Economía de Londres ha llegado a la conclusión de que es el peor día de la semana. Al mismo tiempo elegí el mes de junio porque #FelizMartes se convirtió en el <em>hastag</em> más utilizado durante este mes, según averigué mediante las facetas de texto (que explicaré a continuación).</p>
 <h2 id="procedimiento-de-la-elaboración-de-la-gráfica">Procedimiento de la elaboración de la gráfica</h2>
 <h3 id="open-refine">Open Refine</h3>
-<p>En primer lugar, localicé el documento csv y lo exporté en el Open Refine, después seleccioné cómo quería que apareciera y escogí la opción de separado por comas. A continuación, suprimí las columnas que no iba a necesitar y me quedé únicamente con los días en los que se había publicado y la cantidad de HT publicados ese día.</p>
-<p>Para continuar trabajando utilicé diferentes herramientas que me permitieran elegir mi Hastag.</p>
+<p>En primer lugar, localicé el documento csv y lo exporté en el <em> Open Refine</em>, después seleccioné cómo quería que apareciera y escogí la opción de separado por comas. Elegí esta opción porque era lo que mejor se adecuaba a lo que quería conseguir, es decir, separaba mis datos y me permitía utilizarlos de forma práctica y manejable. A continuación, suprimí las columnas que no iba a necesitar y me quedé únicamente con los días en los que se había publicado y la cantidad de HT publicados ese día. Es decir, quité la columna que agrupaba todos los HT que recibía el nombre de "column 3" y la de los enlaces, "column 4".</p>
+<p>Para continuar trabajando utilicé diferentes herramientas que me permitieran elegir mi <em>Hastag</em>.</p>
 <ul>
-<li><strong>Faceta de texto</strong>: para seleccionar el #FelizMartes, como me aparecía el mismo hastag de diferentes formas (#Feliz Martes y #FelizMartesAtodos) recurrí a la opción de <em>cluster</em> para unir todos en un mismo Hastag.</li>
+<li><strong>Faceta de texto</strong>: para seleccionar el #FelizMartes, como me aparecía el mismo hastag de diferentes formas (#Feliz Martes y #FelizMartesAtodos) recurrí a la opción de <em>cluster</em> para unir todos en un mismo <em>Hastag</em>.</li>
 <li><strong>Añadir columna</strong>: tuve que añadir dos columnas. La primera de ellas para introducir la columna “Meses”. La segunda de ellas cuando conseguí recopilar todos los <em>hastags</em> en un mes puse los datos que me daba de los días y quité la parte derecha de la fecha, es decir, los segundos. Para ello utilicé la opción de editar celda y escribí directamente.</li>
-<li><strong>Value.replace</strong> y <strong>faceta de estrellas</strong>: para agrupar todos las fechas en meses tuve que recurrir a value.replace y a la opción de faceta de estrellas. Para ello, sustituí toda la columna por la palabra Marzo, para que luego al seleccionar con estrellas, ejecutar la faceta y suprimir los que eran valores falsos fuera más fácil utilizar el value.replace.</li>
+<li><strong><em>Value.replace()</strong></em> y <strong>faceta de estrellas</strong>: para agrupar todos las fechas en meses tuve que recurrir a <em>value.replace(Marzo)</em> y a la opción de faceta de estrellas. Para ello, sustituí toda la columna por la palabra Marzo, para que luego al seleccionar con estrellas, ejecutar la faceta y suprimir los que eran valores falsos fuera más fácil utilizar el <em>value.replace().</em></li>
+<li><strong>Descargar el archivo:</strong>cuando tuve mi tabla limpia, seleccioné la opción de exportar valor delimitado por comas, pues me iba a resultar más útil cuando utilizara el <em>Datawrapper.</em></li>
 </ul>
 <p>Lo que me ha resultado un poco más complicado ha sido agrupar los datos del mismo día. Por eso, he dejado en la gráfica el número de los tweets del día, no el conjunto de ellos.</p>
 <h3 id="datawrapper">Datawrapper</h3>
 <ol type="1">
-<li>Por último subí el csv al Datawrapper y utilicé solo dos columnas, la de “Días” y la “Cantidad de Tweets”. El propio programa detectó que eran fecha y cantidad así que no tuve que tocar nada más.</li>
-<li>Después escogí la gráfica de barras porque era lo que más se acercaba a mi intención inicial sobre el análisis. En este mismo apartado seleccioné el máximo y el mínimo de datos del eje Vertical que se corresponde a la cantidad de Tweets. Para el eje horizontal escogí la opción automática ya que el resto solo se correpondía a los años y no reflejaba los días del mes. También elegí el color azul y el tamaño en el que quería que apareciera, en este caso en relación a la pantalla en la que se proyecta (ordenador). Añadí una breve leyenda en la que aparece la creadora, la fuente y el nombre de la aplicación utilizada.</li>
-<li>Publicarlo y descargarlo en PNG.</li>
+<li>Por último subí el csv que me había descargado en <em>Open Refine</em> a <em>Datawrapper</em> y utilicé solo dos columnas, la de “Días” y la “Cantidad de Tweets”. El propio programa detectó que eran fecha y cantidad así que no tuve que tocar nada más.</li>
+<li>Después escogí la gráfica de barras porque era lo que más se acercaba a mi intención inicial sobre el análisis. En este mismo apartado seleccioné el máximo y el mínimo de datos del eje Vertical que se corresponde a la cantidad de <em>Tweets</em>. Para el eje horizontal escogí la opción automática ya que el resto solo se correpondía a los años y no reflejaba los días del mes. También elegí el color azul y el tamaño en el que quería que apareciera, en este caso en relación a la pantalla en la que se proyecta (ordenador). Añadí una breve leyenda en la que aparece la creadora, la fuente y el nombre de la aplicación utilizada.</li>
+<li>Publicarlo y descargarlo en <em>PNG</em>. También me descargué la <em>URL</em> para conservar el texto que tenía en <em>Datawrapper</em>.</li>
 </ol>
-<h3 id="terminal">Terminal:</h3>
+<h3 id="terminal">Terminal</h3>
 <ol type="1">
-<li>Renombré la gráfica que había descargado para que me fuera más fácil localizarla y la subí a la carpeta de imagenes del Github.</li>
-<li>Escribí el documento con el editor de texto nano.</li>
-<li>Lo publiqué en el Github a través de la terminal.</li>
+<li>Renombré la gráfica que había descargado para que me fuera más fácil localizarla y la subí a la carpeta de imagenes del <em>Github</em>. Para renombrar la gráfica lo hice directamente desde el ordenar con la opción renombrar al pulsar el botón derecho. Por otro lado, para subirla tenía que copiar y pegarla de Descargas a la carpeta imagenes de mi repositorio. Así pues introduje el comando <em>cp=copy</em> y le indiqué dónde quería mandar mi gráfico. (cp ../Descargas/felizmartes-en-twitter-junio-de-2021.png imagenes/.)</li>
+<li>Escribí el documento de explicación sobre cómo había realizado mi gráfica con el editor de texto nano.</li>
+<li>Lo publiqué en el <em>Github</em> a través de la terminal. Para ello tuve que indicar desde mi terminal que debía publicarlo en <em>github</em>. De esta forma, tuve que utilizar <em>git add</em> (para añadirlo), <em>git commit -m </em>(para indicar qué estaba haciendo), <em>git push origin main</em> (para publicarlo)</li>
+<li>Para ver el resultado de mi csv, lo exporté como Archivador de proyecto <em>OpenRefine</em> a archivo y se puede ver en mi carpeta <em>src/data.</em></li>
 </ol>
 
 
   </div>
 </main>
 
+<!-- Cambio pie de página -->
+
 <footer class="footer mt-auto py-3 bg-light">
   <div class="container">
-    <span class="text-muted">Place sticky footer content here.</span>
+    <span class="text-muted">Periodismo de Datos, UC3M.</span>
   </div>
 </footer>
 
