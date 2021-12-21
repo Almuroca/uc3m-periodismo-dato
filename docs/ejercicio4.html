@@ -44,7 +44,7 @@
     <div class="container-fluid">
 <!--Aquí pongo qué quiero que aparezca en la parte superior izquierda
  de mi página web, en mi caso, mi nombre -->
-      <a class="navbar-brand" href="#">Almudena Romano Cabello</a>
+      <a class="navbar-brand" href="index.html">Almudena Romano Cabello</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -109,11 +109,11 @@
 <p><strong>OpenRefine</strong></p>
 <p>Para empezar, busqué el tema que quería abordar en el INE y luego descargué el archivo como un .csv (valores separados por comas). A continuación, lo exporté en el <em>OpenRefine</em> y por medio de la faceta de texto en la primera columna “Comunidades y Ciudades Autónomas” seleccioné la opción de “Total Nacional” dejando a parte el resto de Comunidades Autónomas, porque lo importante es conocer la evolución anual de estos cuatro componentes a nivel nacional.</p>
 <figure>
-<img src="imagenes/Capturadepantalla1.png" alt="" /><figcaption>Faceta de texto</figcaption>
+<img src="imagenes/capturadepantalla1.png" alt="" /><figcaption>Faceta de texto</figcaption>
 </figure>
 <p>A continuación, mediante la opción de transformas celdas, modifiqué los datos de la segunda columna, “Total”, en números. El OpenRefine no reconoce las comas, así que tuve que sustituirlas por puntos. Para ello, utilicé la transformación personalizada e introduje la expresión <em>value.replace(”,“,”.")</em>. Una vez realizado este paso, pude transformarlo en números mediante la opción transformaciones comunes.</p>
 <figure>
-<img src="imagenes/Capturadepantalla2.png" alt="" /><figcaption>Transformar en número</figcaption>
+<img src="imagenes/capturadepantalla2.png" alt="" /><figcaption>Transformar en número</figcaption>
 </figure>
 <p><strong>Datawrapper</strong></p>
 <p>Cuando tenía todos los datos que necesitaba los exporté en <em>Datawrapper</em>. En esta herramienta de visualización, escogí la opción de Gráfico de Dispersión y en ese mismo paso de la “Visualizar” hay un apartado llamado “Mejorar” donde elegí la customización personalizada que me permitió proporcionar los colores que quise a la gráfica. En visualizar también recurrí a la opción de “Anotar” donde incluí la leyenda del gráfico que resulta de gran utilidad para el lector, ya que aclara cuestiones de autoría, fuente y otras anotaciones que quieras poner. Por último, en el subartado “Diseño” escogí la opción de “Español” para que esta leyenda apareciera en este idioma.</p>
@@ -135,7 +135,7 @@
 <p>El siguiente paso consiste en realizar el sumatorio para obtener posteriormente la media. El <em>OpenRefine</em>, como ya he mencionado, no reconoce las comas, pero ya había transformado las cifras en números (ver en gráfico anterior). Para poder sumar todos los valores, reordené las columnas dejando en primera posición la de “Comunidades” y a su lado la columna sobre la que se realizaría el Sumatorio. Me sitúe sobre la columna del Total y agregué una columna basada en la anterior. Cuando la hice tuve que introducir un título para la misma donde puse Media y la siguiente fórmula: <em>row.record.cells[“Total”].value.sum()</em>. De esta forma, obtuve el sumatorio pero lo que a mí me interesaba era la media de esos trece años. Para conseguirla tuve que editar cada una de las celdas dividiendo desde la calculadora las cifras. Por último, desplacé la columna donde aparece la media al lado de las Comunidades Autónomas para que en el <em>Datawrapper</em> no me aparezca ningún error. (Hasta ese momento tenía la columna de comunidades, la del total transformada en números y la de la media).</p>
 <p>Así es como quedaba la tabla limpia.</p>
 <figure>
-<img src="imagenes/Capturadepantalla3.png" alt="" /><figcaption>Tabla limpia</figcaption>
+<img src="imagenes/capturadepantalla3.png" alt="" /><figcaption>Tabla limpia</figcaption>
 </figure>
 <p><strong>Datawrapper</strong></p>
 <p>Inserté la tabla limpia en el Datawrapper y elegí el gráfico de flechas en la tercera fase de “Visualizar”. En este mismo paso, customicé el color y elegí el orden. También puse una pequeña leyenda antes de descargarla en el paso de visualizar. Por último, completé el último paso de publicar e integrar y la descargué en mi ordenador y desde la terminal la incluí en mi carpeta imágenes de mi Github.</p>
@@ -173,10 +173,10 @@
 <p><strong>OpenRefine</strong></p>
 <p>Mediante facetas de texto escogí los datos que me interesaban: Comunidad Foral de Navarra y Ceuta de la columna de “Comunidades” y riesgo de pobreza de la columna "Riesgo de pobreza y exclusión (y sus componentes).</p>
 <p>A continuación, reordené las columnas dejando en primera posición el período que abarca del 2008 al 2020. (Reordenar los datos me permite colocar las columnas como me interesan en relación al gráfico que quiero realizar en el <em>Datawrapper</em>). Luego añadí columna basada en el “total” que titulé “Comunidad Foral de Navarra” y mendiante la opción de value.replace sustituí el nombre de la comunidad por espacios en blanco. Esto lo hice para tener una columna que reuniera solo los datos de Navarra. Una vez tuve una columna en blanco titulada Comunidad Foral de Navarra puse la tasa a mano en las trece celdas. Lo mismo hice con Ceuta, añadí una columna basada en la anterior que titulé Ceuta y la dejé en blanco para introducir a mano el total de dicha comunidad.</p>
-<p><img src="imagenes/Capturadepantallas4.png" alt="Captura nombre" /> <img src="imagenes/Capturadepantallas5.png" alt="Captura añadir columna" /></p>
+<p><img src="imagenes/capturadepantalla4.png" alt="Captura nombre" /> <img src="imagenes/capturadepantalla5.png" alt="Captura añadir columna" /></p>
 <p>Por último, eliminé todas las filas que no aportaban la información que quería puesto que repetían información y reorganicé los datos: Período, Comunidad Foral de Navarra y Ceuta.</p>
 <figure>
-<img src="imagenes/Capturadepantallas6.png" alt="" /><figcaption>Limpieza</figcaption>
+<img src="imagenes/capturadepantalla6.png" alt="" /><figcaption>Limpieza</figcaption>
 </figure>
 <p><strong>Datawrapper</strong></p>
 <p>Inserté el CSV que había descargado y escogí la opción gráfico de área. En la fase de visualizar, en el subapartado “Mejorar” escogí los colores, los valores que quería mostrar del eje vertical y las cuadrículas que quería ocultar del ejer horizontal. Luego anoté la información que me interesaba y la descargué como <em>PNG</em>.</p>
