@@ -10,7 +10,8 @@ El periodismo de datos moderno, del que bebemos actualmente, nace en 2006-2008 c
 
 El debate sobre el periodismo de datos nace en 2008 cuando se llamó periodismo guiado por datos. Más adelante, la interrupción de los portales de datos abiertos se denominó *Data Driven Journalism* y luego *Data Journalism*. Cabe mencionar que el antecedente del periodismo de datos en Estados Unidos es el periodismo de precisión. Sin embargo, José Luis Dader, cateddrático de la Facultad de Ciencias de la Información se planteó si denominarlo matemático o científico, pero podría conducir a error. Este periodismo de precisión ya lo había usado Philip Mayer en 1952 y lo llamaron Computer Assisted Reporting. Hay otras denominaciones, por ejemplo en Inglaterra se llama *Journocoders*, en Argentina "periodismo de bases de datos". 
 
-Independientemente del nombre que reciba cabe apelar a la importancia del periodismo de datos, ya que vivimos en la era de la información. De esta forma, interpretar el número de víctimas por Covid o interpretar los papeles de Panamá convierten este periodismo en un gran protagonista. Así pues, considero que poco puedo aportar el debate, estoy de acuerdo con la denominación que recibe de periodismo de datos, pues desde mi punto de vista consiste en interpretar y visualizar los mismos. 
+Independientemente del nombre que reciba cabe apelar a la importancia del periodismo de datos, ya que vivimos en la era de la información. De esta forma, interpretar el número de víctimas por Covid o interpretar los papeles de Panamá convierten este periodismo en un gran protagonista. Así pues, considero que poco puedo aportar el debate, estoy de acuerdo con la denominación que recibe de periodismo de datos, pues desde mi punto de vista consiste en interpretar y visualizar los mismos.
+
 **4. ¿Qué medio de comunicación inglés es fundamental en el periodismo y la visualización de datos?** 
 
 El medio de comunicación inglés fundamental en el periodismo y la visualización de datos es [The Guardian](https://www.theguardian.com/international). 
@@ -23,7 +24,7 @@ Los lenguajes informáticos son aquellos que entiende el ordenador a través del
 
 El HTML, lenguaje estructurado forma parte  de la mayoría de páginas webs y aplicaciones en línea.
 
-Por otro lado, entre los de programación encontramos:
+Por otro lado, entre los de programación realizan diferentes acciones:
 - JAVA: Lenguaje principal para la programación de aplicaciones Android y una base fundamental para el desarrollo de páginas Web. Un imprescindible.
 - JavaScript: Lenguaje fundamental para hacer las páginas web interactivas o crear interfaces con algunas de sus conocidas plantillas. 
 - C#: Lenguaje primario para el desarrollo de plataformas y servicios de Microsoft. Además, el popular motor de desarrollo Unity game incorpora C# como uno de sus lenguajes principales.
@@ -33,15 +34,16 @@ Por otro lado, entre los de programación encontramos:
 
 **6. Cuál es la diferencia entre Internet y la Web. Razona la respuesta.**
 
-La web está dentro de Internet, es uno de los servicios que presta. Internet por el contrario es una red de redes que funciona gracias a protocolos de TCP (protocolo del control de la trasmisión)/IP (como se conecta a una red que es intranet nos da una dirección de la red local, una IP). Internet sirve para conectar a todo el mundo y transmitir información. Sin embargo, la web (World Wide Web) es una enorme colección de páginas que se asienta sobre esta red de computadoras. De esta forma, presenta servicios como los navegadores (Google, aunque prefible usar otros como Duckduckgo) a través de los cuales los usarios (clientes) obtienen información.
+La web está dentro de Internet, es uno de los servicios que presta. Internet por el contrario es una red de redes que funciona gracias a protocolos de TCP (protocolo del control de la trasmisión)/IP (como se conecta a una red que es intranet nos da una dirección de la red local, una IP). Internet sirve para conectar a todo el mundo y transmitir información. Sin embargo, la web (World Wide Web) es una enorme colección de páginas que se asienta sobre esta red de computadoras. De esta forma, presenta servicios como los navegadores (Google, aunque prefible usar otros como Duckduckgo) a través de los cuales los usarios (clientes) pueden entre otras cosas, buscar información.
 
 **8. Qué saberes están implicados en periodismo de datos. Razona la respuesta.**
 
 Ya los he mencionado antes, pero los tres saberes implicados son el periodismo, la visualización y los datos. 
-Se habla de periodismo y visualización de datos porque entendemos que hay una línea argumental entre ambos conceptos. El periodismo de datos usa la visualización de datos tanto en la etapa de análisis como en la de presentación de resultados. A la vez son términos que no se han definido por completo. ¿Se puede hablar de periodismo y visualización sin análisis? No, pero, la visualización remite también al análisis de datos.
-Asimismo los datos se tratan de registros electrónicos, donde puede haber datos estructurados pero también no estructurados, el texto y/o la web como datos, la música, las imágenes, los vídeos. E incluso nuestro comportamiento, tanto con las aplicaciones como con los dispositivos electrónicos. Se pregunta si en una página se puede seguir cuando pinchas en un enlace y cuando no, se puede seguir todo, es decir, se registra todo nuestro comportamiento, se puede reproducir, se hacen pruebas constantes con lo que hacemos, con nuestras decisiones, nuestros estímulos. . . técnicas A/B, etc.
+Se habla de periodismo y visualización de datos porque entendemos que hay una línea argumental entre ambos conceptos. El periodismo de datos usa la visualización de datos tanto en la etapa de análisis como en la de presentación de resultados. A la vez son términos que no se han definido por completo. No obstante, no se puede hablar de periodismo y visualización sin análisis, pero, la visualización remite también al análisis de datos.
 
-Cabe añadir que existen diferentes formatos de datos (SV, JSON, XLM) y además hay diferentes tipos de los mismos. De esta forma, existen datos numéricos: integer (sin decimales), decimal (pocos decimales y siempre los mismos), float or double (muchos decimales, más fáciles de tratar), date or datetime, period (periodo de la muestra). Los strings: cadena de caracteres o literales al texto normal y los booleanos: valores en lógica binaria. Verdadero o falso. 
+Asimismo los datos se tratan de registros electrónicos, donde puede haber datos estructurados pero también no estructurados, el texto y/o la web como datos, la música, las imágenes, los vídeos. E incluso nuestro comportamiento, tanto con las aplicaciones como con los dispositivos electrónicos. Se pregunta si en una página se puede seguir cuando pinchas en un enlace y cuando no, se puede seguir todo, es decir, se registra todo nuestro comportamiento, se puede reproducir, se hacen pruebas constantes con lo que hacemos, con nuestras decisiones, nuestros estímulos, técnicas A/B, etc.
+
+Cabe añadir que existen diferentes formatos de datos (SV, JSON, XLM) y además hay diferentes tipos de los mismos. De esta forma, existen datos numéricos: integer (sin decimales), decimal (pocos decimales y siempre los mismos), float or double (muchos decimales, más fáciles de tratar), date or datetime, period (periodo de la muestra). Por otro lado, los strings: cadena de caracteres o literales al texto normal y los booleanos: valores en lógica binaria. Verdadero o falso. 
 
 **13. ¿Qué significa el funcionamiento "cliente-servidor"?**
 
@@ -49,9 +51,7 @@ La arquitectura cliente-servidor es un modelo de diseño de software en el que l
 
 **14. ¿Qué relación tiene el formato CSV con Excel?**
 
-CSV es una opción a la hora de exportar o presentar los datos en Excel. 
-
-CSV es un formato de texto sin formato con una serie de valores separados por comas, mientras que Excel es un archivo binario que contiene información sobre todas las hojas de trabajo en un libro. El archivo CSV no puede realizar operaciones en los datos, mientras que Excel sí puede realizar operaciones. 
+CSV es una opción a la hora de exportar o presentar los datos en Excelque consiste en presentar los datos separados por comas, como bien indica su nombre comma separated value. Sin embargo, Excel es un archivo binario que contiene información sobre todas las hojas de trabajo en un libro. El archivo CSV no puede realizar operaciones en los datos, mientras que Excel sí puede realizar operaciones. 
 
 En resumen, Excel es, por un lado, un programa para visualizar datos tabulados; por otro, un programa donde se pueden utilizar funciones para trabajar con los datos tabulados; y finalmente, un formato de datos XLSX.
 
@@ -63,14 +63,13 @@ Nano es un editor de texto que encontramos en la línea de comandos. De esta for
 
 Para empezar, han sido dos de los protagonistas durante nuestro curso. Aunque presenten nombres parecidos muestran alguna diferencia. De esta forma, por un lado se encuentra git que se utiliza en proyectos de software. Además es un programa para el trabajo colaborativo y distribuido y para el periodismo de datos. Presenta algunas ventajas entre las que destacan: el permiso de ramas en permite ramas en  los proyectos que luego se integran, volver a momentos concretos, comentar lo que hacemos y el permiso de más de un servidor. Así pues, cuando queramos subir este examen a nuestro repositorio de Github, deberemos dar la orden de git add, git commit -m (comentario que mencionaba antes) y git push origin main donde nos pedirá el token generado. 
 
-Por otro lado encontramos Github que es un repositorio online gratuito que permite gestionar proyectos y controlar versiones de código. POr eso, nos permite almacenar nuestros trabajos para que otros cooperen con ellos. De hecho, en clase alguna vez clonábamos otros repositorios para recopilar consejos o información de otros usuarios. 
+Por otro lado encontramos Github que es un repositorio online gratuito que permite gestionar proyectos y controlar versiones de código. Por eso, nos permite almacenar nuestros trabajos para que otros cooperen con ellos. De hecho, en clase alguna vez clonábamos otros repositorios para recopilar consejos o información de otros usuarios. 
 
 **24. ¿Cuál es la estructura de las sentencias/instrucciones en la línea de comandos?**
 
-Los comandos son las instrucciones que nosotros como clientes envíamos a nuestro servidor. Es lo que aparece al lado de nuestro localhost. Existen un gran número de comandos y muchas formas de utilizarlos. De hecho, si queremos conocer su uso tan solo deberíamos poner el comando seguido de --help o de man. 
+Los comandos son las instrucciones que nosotros como clientes envíamos a nuestro servidor. Existen un gran número de comandos y muchas formas de utilizarlos. De hecho, si queremos conocer su uso tan solo deberíamos poner el comando seguido de --help o de man. 
 
-Los comandos pueden aparecer solos, por ejemplo pwd (saber dónde estoy) y me aparece el sitio en el que me ecuentro. 
-También pueden aparecer seguidos de argumentos, por ejemplo `nano examen.md`para poner el nombre de mi archivo. O incluso pueden aparecer junto a opciones y luego argumentos. Esto quiere decir que el comando presenta más de una opción por ejemplo lynx que iría seguido de la opción -source y los argumentos que sería el nombre de la página que quiere descargar por ejemplo El País. Quedaría algo así: `lunx -source Elpais.com`. 
+Los comandos pueden aparecer solos, por ejemplo pwd (saber dónde estoy) y me aparece el sitio en el que me ecuentro. También pueden aparecer seguidos de argumentos, por ejemplo `nano examen.md`para poner el nombre de mi archivo. O incluso pueden aparecer junto a opciones y luego argumentos. Esto quiere decir que el comando presenta más de una opción por ejemplo lynx que iría seguido de la opción -source y los argumentos que sería el nombre de la página que quiere descargar por ejemplo El País. Quedaría algo así: `lynx -source Elpais.com`. 
 
 **26. ¿Cómo te descargarías la web theguardian.com desde la línea de comandos?**
 
@@ -195,7 +194,7 @@ API significa interfaz de programación de acceso y serían los códigos para co
 
 Markdown, es dos cosas a la vez: es una sintaxis simple y un “paseador” o conversor de esa sintaxis de HTML. Vemos como la Web funciona con lenguaje HTML, actualmente con la versión 5, HTML 5, pero es difícil la lectura de un texto de un código HTML. Por eso, Markdown es mucho más simple para la lectura, tan simple que a muchos sitios no llega, por eso desde el inicio se permite en Markdown usar también lenguaje HTML, si lo necesitamos.
  
-Así en Github, escribimos MarkDown y Github lo muestra como HTML, pero si vemos el archivo fiuente sigue siendo MarkDown. Tiene truco porque si se le da a “ver en código fuente” se ve en HTML, pero ese HTML no es el que se modifica para que se vea un HTML u otro, sino que lo que se modifica es MarkDown y luego se hace la conversión de nuevo. 
+Así en Github, escribimos MarkDown y Github lo muestra como HTML, pero si vemos el archivo fuente sigue siendo MarkDown. Tiene truco porque si se le da a “ver en código fuente” se ve en HTML, pero ese HTML no es el que se modifica para que se vea un HTML u otro, sino que lo que se modifica es MarkDown y luego se hace la conversión de nuevo. 
 
 Markdown es un tipo de lenguaje informático de fácil manejo. Utiliza herramientas como los #, que permiten crear títulos o subtítulos. Tambien los números y las - sirven para ordenar la información. Además, los asteriscos podrán modificar las palabras a negrita o cursiva. Para guardar un archivo en este formato se deberá hacer de la siguiente manera: nombredelarchivo.md y no se podrán utilizar caracteres como ñ o tildes.
 
@@ -213,7 +212,7 @@ Otras de las mejoras ha sido comprender un poco más mi instrumento de trabajo. 
 
 **100. ¿Quién es Philip Meyer?**
 
-Es el precursor del Periodismo de Datos, profesor emérito y profesor titular de la cátedra Knight de Periodismo en la Universidad de Carolina del Norte por sus investigaciones acerca de la calidad  y precisión en el periodismo, del periodismo cívico, democracia, industria periodística y tecnología de la comunicación. Meyer obtuvo el premio Nieman Fellow en 1966-1967.1​ Meyer es columnista en la sección de Opinión del periódico norteamericano USA Today. 
+Es el precursor del Periodismo de Datos, profesor emérito y profesor titular de la cátedra Knight de Periodismo en la Universidad de Carolina del Norte por sus investigaciones acerca de la calidad  y precisión en el periodismo, del periodismo cívico, democracia, industria periodística y tecnología de la comunicación. Meyer obtuvo el premio Nieman Fellow en 1966-1967. De hecho, Meyer es columnista en la sección de Opinión del periódico norteamericano USA Today. 
 
 Meyer es muy reconocido por utilizar durante su carrera las nuevas tecnologías. Una de sus noticias donde utilizó la asistencia de computadoras fue en los disturbios de Detroit de 1967. Su investigación, basado en encuestas, fueron analizadas en un ordenador y mostraron que las personas que habían asistido a la universidad tenían la misma propensión a amotinarse que los que abandonaban la escuela secundaria. A partir de entonces, consideró que el uso del ordenador para recopilar datos era fundamental, y por ende el periodismo de datos. 
 
