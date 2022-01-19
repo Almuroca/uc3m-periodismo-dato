@@ -103,9 +103,9 @@ Para conocer el listado de todos los archivos de un directorio tenemos diferente
 Existen caracteres que no son comunes y se presentan con un código hexadecimal o entidades HTML (por ejemplo las ñ o las tildes). No obstante, algunas veces las entidades no cubren todo y necesitamos el código hexadecimal. 
 
 Así pues, una entidad HTML es un conjunto de caracteres ("string") que comienza con un ampersand ( & ) y termina con un punto y coma ( ; ).
-Cabe destacar que existen caracteres reservados, es decir, caracteres que no se pueden usar tal cual porque el lenguaje los entiende de una manera especial. Por ejemplo, en HTML el carácter < es el inicio de una etiqueta, si queremos poner que 4<6, tendremos que escribir  4&lt;6. Para decir que cuatro<seis, (lt significa lower than).
+Cabe destacar que existen caracteres reservados, es decir, caracteres que no se pueden usar tal cual porque el lenguaje los entiende de una manera especial. Por ejemplo, en HTML el carácter < es el inicio de una etiqueta, si queremos poner que 4<6, tendremos que escribir "4&lt;6". Para decir que cuatro<seis, (lt significa lower than).
 
-De hecho, ocurre con el propio carácter de ampersand, si queremos usarlo y que HTML no lo entienda como el inicio de una entidad HTML, hemos de poner la entidad. Por ejemplo la empresa Ernest & young se pondría como Ernest&amp;Young donde amp proviene de ampersand. 
+De hecho, ocurre con el propio carácter de ampersand, si queremos usarlo y que HTML no lo entienda como el inicio de una entidad HTML, hemos de poner la entidad. Por ejemplo la empresa Ernest & young se pondría como "Ernest&amp;Young" donde amp proviene de ampersand. 
 
 **29. Cuál es el primer comando que deberías usar en la terminal. Explica tu respuesta.** 
 
